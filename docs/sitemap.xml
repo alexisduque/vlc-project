@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://alexisduque.github.io/vlc-research-resources/post/writing-markdown-latex/</loc>
+    <lastmod>2016-04-20T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://alexisduque.github.io/vlc-research-resources/post/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://alexisduque.github.io/vlc-research-resources/post/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://alexisduque.github.io/vlc-research-resources/post/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://alexisduque.github.io/vlc-research-resources/post/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://alexisduque.github.io/vlc-research-resources/publication/clothing-search/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://alexisduque.github.io/vlc-research-resources/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://alexisduque.github.io/vlc-research-resources/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://alexisduque.github.io/vlc-research-resources/categories/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://alexisduque.github.io/vlc-research-resources/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://alexisduque.github.io/vlc-research-resources/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://alexisduque.github.io/vlc-research-resources/categories/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://alexisduque.github.io/vlc-research-resources/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://alexisduque.github.io/vlc-research-resources/publication/fermats-last-theorem/</loc>
+  </url>
+  
+  <url>
+    <loc>http://alexisduque.github.io/vlc-research-resources/post/</loc>
+    <lastmod>2016-04-20T10:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://alexisduque.github.io/vlc-research-resources/publication/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://alexisduque.github.io/vlc-research-resources/tags/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://alexisduque.github.io/vlc-research-resources/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://alexisduque.github.io/vlc-research-resources/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://alexisduque.github.io/vlc-research-resources/</loc>
+    <lastmod>2016-04-20T10:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

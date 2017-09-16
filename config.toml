@@ -1,0 +1,101 @@
+baseURL = "http://alexisduque.github.io/vlc-research-resources"
+languageCode = "en-us"
+title = "VLC Research Resources"
+publishDir = "docs"
+author = "Alexis Duque"
+copyright = "Copyright (c) 2017 Alexis Duque"
+canonifyurls = false
+paginate = 2
+theme="finite"
+
+[params]
+
+# Date format (refer to Go's date format: http://flippinggodateformat.com)
+# Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+#date_format = "2 January 2006"
+
+# Publications can have a Params.publication for citation references.
+# Publications can have a Params.kind, such as "book".
+# Both parameters are mapped to an icon in partials/pub-icon.html.
+
+bio_full = "Pierre de Fermat: Lawyer at the Parlement of Toulouse, mathematician in his spare time!"
+bio_twitter = "alexis0duque"
+
+# Title of posts section on main page.
+posts_title = "News"
+
+# Number of posts to show on main page.
+#posts_count = 2
+
+# Title of publications section on main page.
+pubs_title = "Publications"
+
+# Number of publications to show on main page.
+pubs_count = 2
+
+[[params.analytics]]
+  key = "UA-XXXXXXXX-X"
+
+[[params.education]]
+  course = "Bachelor in Civil Law"
+  institution = "University of Orléans"
+  year = 1626
+
+[[params.social]]
+  icon = "envelope"
+  icon_pack = "fa"
+  link = "mailto:alexis.duque@insa-lyon.fr"
+  text = "alexis.duque@insa-lyon.fr"
+    
+[[params.social]]
+  icon = "twitter"
+  icon_pack = "fa"
+  link = "https://twitter.com/@alexis0duque"
+  text = "@alexis0duque"
+  site = "Twitter"
+
+[[params.social]]
+  icon = "github"
+  icon_pack = "fa"
+  link = "//https://gist.github.com/Ayrx/5884802"
+  text = "Fermat"
+  site = "GitHub"
+
+[[params.social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://www.researchgate.net/profile/lexis_Duque"
+  text = "ResearchGate"
+
+# Navigation Links
+# The weight parameter defines the order that the links will appear in.
+
+[[menu.main]]
+  name = "Publications"
+  url = "/publication/"
+  weight = 2
+
+[[menu.main]]
+  name = "Blog"
+  url = "/post/"
+  weight = 3
+
+[[menu.main]]
+  name = "Groups"
+  url = "/post/"
+  weight = 4
+
+[[menu.main]]
+  name = "Softwares"
+  url = "/post/"
+  weight = 5
+
+[[menu.main]]
+  name = "Conferences"
+  url = "/post/"
+  weight = 6
+
+[[menu.main]]
+  name = "About us"
+  url = "/#contact"
+  weight = 7

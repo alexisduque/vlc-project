@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on VLC Research Resources</title>
+    <link>http://alexisduque.github.io/vlc-research-resources/tags/</link>
+    <description>Recent content in Tags on VLC Research Resources</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017 Alexis Duque</copyright>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://alexisduque.github.io/vlc-research-resources/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Development</title>
+      <link>http://alexisduque.github.io/vlc-research-resources/tags/development/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexisduque.github.io/vlc-research-resources/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>http://alexisduque.github.io/vlc-research-resources/tags/go/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexisduque.github.io/vlc-research-resources/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>http://alexisduque.github.io/vlc-research-resources/tags/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexisduque.github.io/vlc-research-resources/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://alexisduque.github.io/vlc-research-resources/tags/hugo/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexisduque.github.io/vlc-research-resources/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Templates</title>
+      <link>http://alexisduque.github.io/vlc-research-resources/tags/templates/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexisduque.github.io/vlc-research-resources/tags/templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Themes</title>
+      <link>http://alexisduque.github.io/vlc-research-resources/tags/themes/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexisduque.github.io/vlc-research-resources/tags/themes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
