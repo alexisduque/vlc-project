@@ -1,4 +1,4 @@
-baseURL = "http://alexisduque.github.io/vlc-research-resources"
+baseURL = "http://vlc.lightiot.co/"
 languageCode = "en-us"
 title = "VLC Research Resources"
 publishDir = "docs"
