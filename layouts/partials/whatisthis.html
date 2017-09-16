@@ -1,0 +1,54 @@
+<footer class="whatisthis">
+    <hr />
+    <div class="row">
+        <div class="column small-12 medium-12">
+            <h1>About US</h1>
+            <div class="column small-12 medium-2">
+                <h2>Razvan Stanica</h1>
+                    <figure class="full-figure">
+                        <img src="/img/razvan.jpg" alt="Razvan Stanica">
+                    </figure>
+            </div>
+            <div class="column small-12 medium-4">
+                {{ if isset .Site.Params "position2" }}
+                <h2>Position</h2>
+                <ul class="ul-edu fa-ul">
+                    {{ range $.Site.Params.position2 }}
+                    <li><i class="fa-li fa fa-graduation-cap"></i> {{ .course }}
+                    </li>
+                    {{ end }}
+                </ul>
+                {{ end }}
+                <h2 id="contact">Contact</h2>
+                <ul class="fa-ul">
+                    {{ range $.Site.Params.social2 }}
+                    <li><i class="fa-li {{ .icon_pack }} {{ .icon_pack}}-{{ .icon }}" style="padding-top:3px;"></i><a href="{{ .link }}">{{ .text }}</a>{{ if .site}} on {{ .site }}{{ end }}</li>
+                    {{ end }}
+                </ul>
+            </div>
+            <div class="column small-12 medium-2">
+                <h2>Alexis Duque</h1>
+                    <figure class="full-figure">
+                        <img src="/img/alexis.jpg" alt="Alexis Duque">
+                    </figure>
+            </div>
+            <div class="column small-12 medium-4">
+                {{ if isset .Site.Params "position" }}
+                <h2>Position</h2>
+                <ul class="ul-edu fa-ul">
+                    {{ range $.Site.Params.position }}
+                    <li><i class="fa-li fa fa-graduation-cap"></i> {{ .course }}
+                    </li>
+                    {{ end }}
+                </ul>
+                {{ end }}
+                <h2 id="contact">Contact</h2>
+                <ul class="fa-ul">
+                    {{ range $.Site.Params.social }}
+                    <li><i class="fa-li {{ .icon_pack }} {{ .icon_pack}}-{{ .icon }}" style="padding-top:3px;"></i><a href="{{ .link }}">{{ .text }}</a>{{ if .site}} on {{ .site }}{{ end }}</li>
+                    {{ end }}
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>

@@ -25,27 +25,45 @@ bio_twitter = "alexis0duque"
 posts_title = "News"
 
 # Number of posts to show on main page.
-#posts_count = 2
+posts_count = 2
 
 # Title of publications section on main page.
 pubs_title = "Publications"
 
 # Number of publications to show on main page.
-pubs_count = 2
+pubs_count = 3
 
 [[params.analytics]]
   key = "UA-XXXXXXXX-X"
 
-[[params.education]]
-  course = "Bachelor in Civil Law"
-  institution = "University of Orléans"
-  year = 1626
+[[params.position]]
+  course = "PhD Student (INSA de Lyon, Rtone)"
+  institution = "INSA de Lyon - Rtone"
+  year = 2018
+  
+[[params.position2]]
+  course = "Associate Professor (INSA de Lyon)"
+  institution = "INSA de Lyon - Rtone"
+  year = 2018
 
 [[params.social]]
   icon = "envelope"
   icon_pack = "fa"
   link = "mailto:alexis.duque@insa-lyon.fr"
   text = "alexis.duque@insa-lyon.fr"
+
+[[params.social2]]
+  icon = "envelope"
+  icon_pack = "fa"
+  link = "mailto:razvan.stanica@insa-lyon.fr"
+  text = "razvan.stanica@insa-lyon.fr"
+    
+[[params.social2]]
+  icon = "twitter"
+  icon_pack = "fa"
+  link = "https://twitter.com/@BestRazvanEver"
+  text = "@BestRazvanEver"
+  site = "Twitter"
     
 [[params.social]]
   icon = "twitter"
@@ -57,14 +75,14 @@ pubs_count = 2
 [[params.social]]
   icon = "github"
   icon_pack = "fa"
-  link = "//https://gist.github.com/Ayrx/5884802"
-  text = "Fermat"
+  link = "https://github.com/alexisduque"
+  text = "alexisduque"
   site = "GitHub"
 
 [[params.social]]
   icon = "researchgate"
   icon_pack = "ai"
-  link = "https://www.researchgate.net/profile/lexis_Duque"
+  link = "https://www.researchgate.net/profile/Alexis_Duque"
   text = "ResearchGate"
 
 # Navigation Links

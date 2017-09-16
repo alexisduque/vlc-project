@@ -1,27 +1,54 @@
-{{ define "main" }} {{ $posts_title := index .Site.Params "posts_title" | default "Posts" }} {{ $posts_count := index .Site.Params "posts_count" | default 2 }} {{ $pubs_title := index .Site.Params "pubs_title" | default "Publications" }} {{ $pubs_count
-:= index .Site.Params "pubs_count" | default 5 }}
+{{ define "main" }}
+{{ $posts_title := index .Site.Params "posts_title" | default "Posts" }}
+{{ $posts_count := index .Site.Params "posts_count" | default 2 }}
+{{ $pubs_title := index .Site.Params "pubs_title" | default "Publications" }}
+{{ $pubs_count := index .Site.Params "pubs_count" | default 5 }}
 <div class="row">
-    <div class="column small-12 medium-7 large-6">
-        <h1>Recent {{ $posts_title }}</h1>
-        {{ range first $posts_count ((where .Data.Pages.ByDate "Section" "post").Reverse) }} {{ partial "post-summary" . }} {{ end }}
-        <footer>
-            <nav>
-                <a href="/post/" class="button hollow primary">All {{ $posts_title }}</a>
-            </nav>
-        </footer>
+  <div class="column small-12 medium-7 large-6">
+    <h1>Recent {{ $posts_title }}</h1>
+    {{ range first $posts_count ((where .Data.Pages.ByDate "Section" "post").Reverse) }}
+    {{ partial "post-summary" . }}
+    {{ end }}
+    <footer>
+      <nav>
+	<a href="/post/" class="button hollow primary">All {{ $posts_title }}</a>
+      </nav>
+    </footer>
+  </div>
+  <div class="column small-12 medium-5 large-offset-1">
+    <h1>Recent {{ $pubs_title }}</h1>
+    <ul class="compact fa-ul">
+      {{ range first $pubs_count (where .Data.Pages.ByDate "Section" "publication").Reverse }}
+      <li>{{ partial "pub-summary" . }}</li>
+      {{ end }}
+    </ul>
+    <footer>
+      <nav>
+	<a href="/publication/" class="button hollow primary">All {{ $pubs_title }}</a>
+      </nav>
+    </footer>
     </div>
-    <div class="column small-12 medium-5 large-offset-1">
-        <h1>Recent {{ $pubs_title }}</h1>
-        <ul class="compact fa-ul">
-            {{ range first $pubs_count (where .Data.Pages.ByDate "Section" "publication").Reverse }}
-            <li>{{ partial "pub-summary" . }}</li>
-            {{ end }}
-        </ul>
-        <footer>
-            <nav>
-                <a href="/publication/" class="button hollow primary">All {{ $pubs_title }}</a>
-            </nav>
-        </footer>
+    <div class="column small-12 medium-5">
+        <h1>Subscribe</h1>
+        <p>To receive updates, you can subscribe to the <a href="/index.xml"><i class="fa fa-rss-square"></i>&nbsp;RSS feed</a> of all updates to the site in an RSS feed reader.
+        </p>
+        <h1>Search</h1>
+        <a id="searchsite">
+            <form method="get" action="https://duckduckgo.com/">
+                <label for="search-field" class="show-for-sr">Search with DuckDuckGo</label>
+                <input type="search" name="q" maxlength="255" placeholder="Search with DuckDuckGo" id="search-field">
+                <input type="hidden" name="sites" value="{{ .Site.BaseURL }}" />
+                <input type="hidden" name="k7" value="#faf8f8" />
+                <input type="hidden" name="kj" value="#b33" />
+                <input type="hidden" name="ky" value="#fafafa" />
+                <input type="hidden" name="kx" value="b" />
+                <input type="hidden" name="ko" value="-1" />
+                <input type="hidden" name="k1" value="-1" />
+                <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" />
+            </form>
+        </a>
     </div>
+  </div>
 </div>
 {{ end }}
+{{ define "whatisthis" }}{{ partial "whatisthis" . }} {{ end }}
