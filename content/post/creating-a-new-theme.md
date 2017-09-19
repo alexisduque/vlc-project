@@ -6,6 +6,13 @@ next: /tutorials/github-pages-blog
 prev: /tutorials/automated-deployments
 title: Creating a New Theme
 draft: false
+tags: [
+    "go",
+    "golang",
+    "templates",
+    "themes",
+    "development",
+]
 ---
 
 

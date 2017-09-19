@@ -13,7 +13,22 @@
   </url>
   
   <url>
+    <loc>http://vlc.lightiot.co/conference/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vlc.lightiot.co/group/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://vlc.lightiot.co/post/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vlc.lightiot.co/software/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,13 +48,24 @@
   </url>
   
   <url>
+    <loc>http://vlc.lightiot.co/publication/fermats-last-theorem/</loc>
+    <lastmod>1970-01-01T01:27:17+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://vlc.lightiot.co/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://vlc.lightiot.co/tags/development/</loc>
+    <loc>http://vlc.lightiot.co/conference/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vlc.lightiot.co/tags/development/</loc>
+    <lastmod>2016-04-20T10:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -51,18 +77,24 @@
   
   <url>
     <loc>http://vlc.lightiot.co/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2016-04-20T10:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://vlc.lightiot.co/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2016-04-20T10:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://vlc.lightiot.co/categories/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vlc.lightiot.co/group/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -74,7 +106,15 @@
   </url>
   
   <url>
-    <loc>http://vlc.lightiot.co/publication/fermats-last-theorem/</loc>
+    <loc>http://vlc.lightiot.co/tags/led-to-camera/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vlc.lightiot.co/tags/led-to-led/</loc>
+    <lastmod>1970-01-01T01:27:17+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -90,20 +130,26 @@
   </url>
   
   <url>
-    <loc>http://vlc.lightiot.co/tags/</loc>
+    <loc>http://vlc.lightiot.co/software/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vlc.lightiot.co/tags/</loc>
+    <lastmod>2016-04-20T10:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://vlc.lightiot.co/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2016-04-20T10:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://vlc.lightiot.co/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2016-04-20T10:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

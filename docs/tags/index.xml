@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 Alexis Duque</copyright>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 10:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://vlc.lightiot.co/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Development</title>
       <link>http://vlc.lightiot.co/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Apr 2016 10:00:00 +0000</pubDate>
       
       <guid>http://vlc.lightiot.co/tags/development/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Go</title>
       <link>http://vlc.lightiot.co/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Apr 2016 10:00:00 +0000</pubDate>
       
       <guid>http://vlc.lightiot.co/tags/go/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Golang</title>
       <link>http://vlc.lightiot.co/tags/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Apr 2016 10:00:00 +0000</pubDate>
       
       <guid>http://vlc.lightiot.co/tags/golang/</guid>
       <description></description>
@@ -49,9 +49,27 @@
     </item>
     
     <item>
+      <title>Led to Camera</title>
+      <link>http://vlc.lightiot.co/tags/led-to-camera/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/tags/led-to-camera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Led to Led</title>
+      <link>http://vlc.lightiot.co/tags/led-to-led/</link>
+      <pubDate>Thu, 01 Jan 1970 01:27:17 +0100</pubDate>
+      
+      <guid>http://vlc.lightiot.co/tags/led-to-led/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Templates</title>
       <link>http://vlc.lightiot.co/tags/templates/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Apr 2016 10:00:00 +0000</pubDate>
       
       <guid>http://vlc.lightiot.co/tags/templates/</guid>
       <description></description>
@@ -60,7 +78,7 @@
     <item>
       <title>Themes</title>
       <link>http://vlc.lightiot.co/tags/themes/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Apr 2016 10:00:00 +0000</pubDate>
       
       <guid>http://vlc.lightiot.co/tags/themes/</guid>
       <description></description>

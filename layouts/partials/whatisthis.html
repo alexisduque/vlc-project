@@ -2,16 +2,16 @@
     <hr />
     <div class="row">
         <div class="column small-12 medium-12">
-            <h1>About US</h1>
+            <h1>About Us</h1>
             <div class="column small-12 medium-2">
-                <h2>Razvan Stanica</h1>
+                <h3>Razvan Stanica</h3>
                     <figure class="full-figure">
                         <img src="/img/razvan.jpg" alt="Razvan Stanica">
                     </figure>
             </div>
             <div class="column small-12 medium-4">
                 {{ if isset .Site.Params "position2" }}
-                <h2>Position</h2>
+                <h2>Current Position</h2>
                 <ul class="ul-edu fa-ul">
                     {{ range $.Site.Params.position2 }}
                     <li><i class="fa-li fa fa-graduation-cap"></i> {{ .course }}
@@ -27,14 +27,14 @@
                 </ul>
             </div>
             <div class="column small-12 medium-2">
-                <h2>Alexis Duque</h1>
+                <h3>Alexis Duque</h3>
                     <figure class="full-figure">
                         <img src="/img/alexis.jpg" alt="Alexis Duque">
                     </figure>
             </div>
             <div class="column small-12 medium-4">
                 {{ if isset .Site.Params "position" }}
-                <h2>Position</h2>
+                <h2>Current Position</h2>
                 <ul class="ul-edu fa-ul">
                     {{ range $.Site.Params.position }}
                     <li><i class="fa-li fa fa-graduation-cap"></i> {{ .course }}

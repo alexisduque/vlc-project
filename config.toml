@@ -100,17 +100,17 @@ pubs_count = 3
 
 [[menu.main]]
   name = "Groups"
-  url = "/post/"
+  url = "/group/"
   weight = 4
 
 [[menu.main]]
   name = "Softwares"
-  url = "/post/"
+  url = "/software/"
   weight = 5
 
 [[menu.main]]
   name = "Conferences"
-  url = "/post/"
+  url = "/conference/"
   weight = 6
 
 [[menu.main]]

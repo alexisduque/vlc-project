@@ -2,7 +2,7 @@
 abstract = "Proof of Fermat's Last Theorem."
 abstract_short = ""
 authors = ["Pierre de Fermat"]
-date = "1637"
+date = 1637
 image = ""
 image_preview = ""
 math = true
@@ -15,7 +15,9 @@ url_pdf = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-
+tags = [
+    "LED-to-LED"
+]
 [[url_custom]]
 name = "Alternative Proof"
 url = "https://en.wikipedia.org/wiki/Wiles%27s_proof_of_Fermat%27s_Last_Theorem"

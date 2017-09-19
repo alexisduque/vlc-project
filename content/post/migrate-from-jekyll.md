@@ -2,6 +2,13 @@
 date: 2014-03-10
 linktitle: Migrating from Jekyll
 title: Migrate to Hugo from Jekyll
+tags: [
+    "go",
+    "golang",
+    "templates",
+    "themes",
+    "development",
+]
 ---
 
 ## Move static content to `static`
