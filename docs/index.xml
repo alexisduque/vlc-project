@@ -1,116 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>VLC Research Resources</title>
+    <title>CITI Lab VLC Project</title>
     <link>http://vlc.lightiot.co/</link>
-    <description>Recent content on VLC Research Resources</description>
+    <description>Recent content on CITI Lab VLC Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 Alexis Duque</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://vlc.lightiot.co/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Writing content with Markdown, LaTeX, and Shortcodes</title>
-      <link>http://vlc.lightiot.co/post/writing-markdown-latex/</link>
-      <pubDate>Wed, 20 Apr 2016 10:00:00 +0000</pubDate>
+      <title>Pulsar : Towards Ubiquitous Visible Light Localization</title>
+      <link>http://vlc.lightiot.co/publication/pulsar/</link>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/post/writing-markdown-latex/</guid>
-      <description>Content can be written using Markdown, LaTeX math, and Hugo Shortcodes. Additionally, HTML may be used for advanced formatting.
-Sub-headings ## H2 ### H3 #### H4 ##### H5 ###### H6  Emphasis Italics with *asterisks* or _underscores_. Bold with **asterisks** or __underscores__. Combined emphasis with **asterisks and _underscores_**. Strikethrough with ~~two tildes~~.  Ordered lists 1. First item 2. Another item  Unordered lists * First item * Another item  Images Images may be added to a page by placing them in your static/img/ folder and referencing them using one of the following two notations:</description>
-    </item>
-    
-    <item>
-      <title>Creating a New Theme</title>
-      <link>http://vlc.lightiot.co/post/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://vlc.lightiot.co/post/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>http://vlc.lightiot.co/conference/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://vlc.lightiot.co/conference/goisforlovers/</guid>
-      <description>Hugo uses the excellent [go][] [html/template][gohtmltemplate] library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>http://vlc.lightiot.co/group/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://vlc.lightiot.co/group/goisforlovers/</guid>
-      <description>Hugo uses the excellent [go][] [html/template][gohtmltemplate] library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>http://vlc.lightiot.co/post/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://vlc.lightiot.co/post/goisforlovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>http://vlc.lightiot.co/software/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://vlc.lightiot.co/software/goisforlovers/</guid>
-      <description>Hugo uses the excellent [go][] [html/template][gohtmltemplate] library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>http://vlc.lightiot.co/post/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://vlc.lightiot.co/post/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>http://vlc.lightiot.co/post/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://vlc.lightiot.co/post/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title>Mobile visual clothing search</title>
-      <link>http://vlc.lightiot.co/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://vlc.lightiot.co/publication/clothing-search/</guid>
+      <guid>http://vlc.lightiot.co/publication/pulsar/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
-      <title>Margin Note in Arithmetica</title>
-      <link>http://vlc.lightiot.co/publication/fermats-last-theorem/</link>
-      <pubDate>Thu, 01 Jan 1970 01:27:17 +0100</pubDate>
+      <title>VLCS&#39;17 Workshop Program is up</title>
+      <link>http://vlc.lightiot.co/post/vlcs-program/</link>
+      <pubDate>Wed, 20 Sep 2017 13:13:33 +0200</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/fermats-last-theorem/</guid>
-      <description>I have discovered a truly marvellous proof of this, which this margin is too narrow to contain:
-There are no positive integers such that $x^n + y^n = z^n$ for $ n&amp;gt;2 $.  </description>
+      <guid>http://vlc.lightiot.co/post/vlcs-program/</guid>
+      <description>&lt;p&gt;The VLCS&amp;rsquo;17 program has been published on the workshop &lt;a href=&#34;http://vlcs17.winlab.rutgers.edu/program.html&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>VLC Project website is alive!</title>
+      <link>http://vlc.lightiot.co/post/website-up/</link>
+      <pubDate>Wed, 20 Sep 2017 13:10:20 +0200</pubDate>
+      
+      <guid>http://vlc.lightiot.co/post/website-up/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Softwares</title>
+      <link>http://vlc.lightiot.co/softwares/</link>
+      <pubDate>Wed, 20 Sep 2017 12:23:48 +0200</pubDate>
+      
+      <guid>http://vlc.lightiot.co/softwares/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conferences</title>
+      <link>http://vlc.lightiot.co/conferences/</link>
+      <pubDate>Wed, 20 Sep 2017 12:22:17 +0200</pubDate>
+      
+      <guid>http://vlc.lightiot.co/conferences/</guid>
+      <description>You will find below a list of conferences and workshop you should watch if your interested in VLC.
+ International Conference on Embedded Wireless Systems and Networks (EWSN) IEEE International Conference on Computer Communications (INFOCOM) ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN) IEEE International Conference on Communications (ICC) ACM Conference onMobile Systems, Applications, and Services (MobiSys) IEEE International Conference on Sensing, Communication and Networking (SECON) ACM Conference on Mobile Computing and Networking (MobiCom) ACM Workshop on Visible Light Communication Systems (VLCS) ACM Conference on Embedded Networked Sensor Systems (SenSys)   </description>
+    </item>
+    
+    <item>
+      <title>Research Groups</title>
+      <link>http://vlc.lightiot.co/groups/</link>
+      <pubDate>Wed, 20 Sep 2017 12:22:17 +0200</pubDate>
+      
+      <guid>http://vlc.lightiot.co/groups/</guid>
+      <description>Labs, research groups and companies involved in VLC.</description>
     </item>
     
   </channel>

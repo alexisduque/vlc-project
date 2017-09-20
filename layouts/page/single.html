@@ -5,15 +5,11 @@
 {{ partial "share.html" $ }}
 {{ end }}
 {{ define "whatisthis" }}
-{{ partial "whatisthis-short.html" . }}
 {{ end }}
 {{ define "main" }}
 <div class="row">
-  <div class="column small-12 medium-10 medium-offset-1 end large-8 large-offset-0">
+  <div class="column small-12 medium-12 large-12 large-offset-0">
     <article class="article" itemscope itemtype="http://schema.org/Article">
-      {{ if .Params.image }}
-      <img src="{{ $.Site.BaseURL }}img/{{ .Params.image }}" class="article-banner" itemprop="image">
-      {{ end }}
       <h1 itemprop="name">{{ .Title }}</h1>
       {{ partial "post-metadata" . }}
       <div class="post-body" itemprop="articleBody">
@@ -34,7 +30,6 @@
       {{ end }}
     </ul>
 
-    <!-- FIXME <a href="/post/archives/">All Posts by Date</a> &middot; <a href="/categories/">All Posts by Category</a> -->
-  </div>
+    </div>
 </div>
 {{ end }}

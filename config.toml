@@ -1,6 +1,6 @@
 baseURL = "http://vlc.lightiot.co/"
 languageCode = "en-us"
-title = "VLC Research Resources"
+title = "CITI Lab VLC Project"
 publishDir = "docs"
 author = "Alexis Duque"
 copyright = "Copyright (c) 2017 Alexis Duque"
@@ -97,21 +97,6 @@ pubs_count = 3
   name = "Blog"
   url = "/post/"
   weight = 3
-
-[[menu.main]]
-  name = "Groups"
-  url = "/group/"
-  weight = 4
-
-[[menu.main]]
-  name = "Softwares"
-  url = "/software/"
-  weight = 5
-
-[[menu.main]]
-  name = "Conferences"
-  url = "/conference/"
-  weight = 6
 
 [[menu.main]]
   name = "About us"

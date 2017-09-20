@@ -5,7 +5,7 @@ linktitle: Creating a New Theme
 next: /tutorials/github-pages-blog
 prev: /tutorials/automated-deployments
 title: Creating a New Theme
-draft: false
+draft: true
 tags: [
     "go",
     "golang",

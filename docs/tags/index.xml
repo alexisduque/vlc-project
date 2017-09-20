@@ -1,86 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on VLC Research Resources</title>
+    <title>Tags on CITI Lab VLC Project</title>
     <link>http://vlc.lightiot.co/tags/</link>
-    <description>Recent content in Tags on VLC Research Resources</description>
+    <description>Recent content in Tags on CITI Lab VLC Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 Alexis Duque</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Sep 2017 13:13:33 +0200</lastBuildDate>
     
 	<atom:link href="http://vlc.lightiot.co/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title></title>
+      <link>http://vlc.lightiot.co/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 13:13:33 +0200</pubDate>
+      
+      <guid>http://vlc.lightiot.co/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Development</title>
       <link>http://vlc.lightiot.co/tags/development/</link>
-      <pubDate>Wed, 20 Apr 2016 10:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Sep 2017 12:23:48 +0200</pubDate>
       
       <guid>http://vlc.lightiot.co/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Go</title>
-      <link>http://vlc.lightiot.co/tags/go/</link>
-      <pubDate>Wed, 20 Apr 2016 10:00:00 +0000</pubDate>
+      <title>Indoor Localization</title>
+      <link>http://vlc.lightiot.co/tags/indoor-localization/</link>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Golang</title>
-      <link>http://vlc.lightiot.co/tags/golang/</link>
-      <pubDate>Wed, 20 Apr 2016 10:00:00 +0000</pubDate>
-      
-      <guid>http://vlc.lightiot.co/tags/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>http://vlc.lightiot.co/tags/hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://vlc.lightiot.co/tags/hugo/</guid>
+      <guid>http://vlc.lightiot.co/tags/indoor-localization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Led to Camera</title>
       <link>http://vlc.lightiot.co/tags/led-to-camera/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://vlc.lightiot.co/tags/led-to-camera/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Led to Led</title>
-      <link>http://vlc.lightiot.co/tags/led-to-led/</link>
-      <pubDate>Thu, 01 Jan 1970 01:27:17 +0100</pubDate>
+      <title>Mobicom</title>
+      <link>http://vlc.lightiot.co/tags/mobicom/</link>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/tags/led-to-led/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Templates</title>
-      <link>http://vlc.lightiot.co/tags/templates/</link>
-      <pubDate>Wed, 20 Apr 2016 10:00:00 +0000</pubDate>
-      
-      <guid>http://vlc.lightiot.co/tags/templates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Themes</title>
-      <link>http://vlc.lightiot.co/tags/themes/</link>
-      <pubDate>Wed, 20 Apr 2016 10:00:00 +0000</pubDate>
-      
-      <guid>http://vlc.lightiot.co/tags/themes/</guid>
+      <guid>http://vlc.lightiot.co/tags/mobicom/</guid>
       <description></description>
     </item>
     
