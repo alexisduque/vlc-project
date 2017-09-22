@@ -33,8 +33,9 @@
 	</div>
 	{{ end }}
 	<div class="row">
-	  <div class="column small-2 medium-1 pub-row-heading">Date</div>
-	  <div class="column small-10 medium-11" itemprop="datePublished">{{ .Date.Format "January, 2006" }}</div>
+    <div class="column small-2 medium-1 pub-row-heading">Date</div>
+    
+	  <div class="column small-10 medium-11" itemprop="datePublished">{{ .Date.Format "2006" }}</div>
 	</div>
 	<div class="row">
 	  <div class="column small-2 medium-1 pub-row-heading">Links</div>
