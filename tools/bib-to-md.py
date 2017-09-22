@@ -20,6 +20,7 @@ with open('test.bib') as bibtex_file:
         filename = '{}.md'.format(entry['ID'])
         file = open(filename, "w")
         file.write('+++' + os.linesep)
+
         if 'doi' in entry:
             file.write('doi = "{}"'.format(entry['doi']) + os.linesep)
             # doi = entry['doi']
