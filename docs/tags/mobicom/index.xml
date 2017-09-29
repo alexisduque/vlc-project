@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 Alexis Duque</copyright>
-    <lastBuildDate>Fri, 20 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://vlc.lightiot.co/tags/mobicom/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,10 @@
     <item>
       <title>Pulsar : Towards Ubiquitous Visible Light Localization</title>
       <link>http://vlc.lightiot.co/publication/pulsar/</link>
-      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>http://vlc.lightiot.co/publication/pulsar/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <description></description>
     </item>
     
   </channel>

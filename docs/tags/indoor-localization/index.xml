@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 Alexis Duque</copyright>
-    <lastBuildDate>Fri, 20 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://vlc.lightiot.co/tags/indoor-localization/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,28 @@
     <item>
       <title>Pulsar : Towards Ubiquitous Visible Light Localization</title>
       <link>http://vlc.lightiot.co/publication/pulsar/</link>
-      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>http://vlc.lightiot.co/publication/pulsar/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luxapose</title>
+      <link>http://vlc.lightiot.co/publication/kuo2014/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/publication/kuo2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual light landmarks for mobile devices</title>
+      <link>http://vlc.lightiot.co/publication/zhang2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/publication/zhang2014/</guid>
+      <description></description>
     </item>
     
   </channel>

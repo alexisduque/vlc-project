@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 Alexis Duque</copyright>
-    <lastBuildDate>Wed, 20 Sep 2017 13:13:33 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://vlc.lightiot.co/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,45 +15,144 @@
     <item>
       <title></title>
       <link>http://vlc.lightiot.co/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 13:13:33 +0200</pubDate>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>http://vlc.lightiot.co/tags/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Development</title>
-      <link>http://vlc.lightiot.co/tags/development/</link>
-      <pubDate>Wed, 20 Sep 2017 12:23:48 +0200</pubDate>
+      <title>Conference</title>
+      <link>http://vlc.lightiot.co/tags/conference/</link>
+      <pubDate>Wed, 20 Sep 2017 13:13:33 +0200</pubDate>
       
-      <guid>http://vlc.lightiot.co/tags/development/</guid>
+      <guid>http://vlc.lightiot.co/tags/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disney</title>
+      <link>http://vlc.lightiot.co/tags/disney/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/tags/disney/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flash to Photodiode</title>
+      <link>http://vlc.lightiot.co/tags/flash-to-photodiode/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/tags/flash-to-photodiode/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Indoor Localization</title>
       <link>http://vlc.lightiot.co/tags/indoor-localization/</link>
-      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>http://vlc.lightiot.co/tags/indoor-localization/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Iot</title>
+      <link>http://vlc.lightiot.co/tags/iot/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/tags/iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Led to Camera</title>
       <link>http://vlc.lightiot.co/tags/led-to-camera/</link>
-      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>http://vlc.lightiot.co/tags/led-to-camera/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Led to Led</title>
+      <link>http://vlc.lightiot.co/tags/led-to-led/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/tags/led-to-led/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Los</title>
+      <link>http://vlc.lightiot.co/tags/los/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/tags/los/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mobicom</title>
       <link>http://vlc.lightiot.co/tags/mobicom/</link>
-      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>http://vlc.lightiot.co/tags/mobicom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>http://vlc.lightiot.co/tags/news/</link>
+      <pubDate>Wed, 20 Sep 2017 13:13:33 +0200</pubDate>
+      
+      <guid>http://vlc.lightiot.co/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nlos</title>
+      <link>http://vlc.lightiot.co/tags/nlos/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/tags/nlos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Openvlc</title>
+      <link>http://vlc.lightiot.co/tags/openvlc/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/tags/openvlc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raptor Coding</title>
+      <link>http://vlc.lightiot.co/tags/raptor-coding/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/tags/raptor-coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Screen to Camera</title>
+      <link>http://vlc.lightiot.co/tags/screen-to-camera/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/tags/screen-to-camera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>http://vlc.lightiot.co/tags/software/</link>
+      <pubDate>Wed, 20 Sep 2017 12:23:48 +0200</pubDate>
+      
+      <guid>http://vlc.lightiot.co/tags/software/</guid>
       <description></description>
     </item>
     

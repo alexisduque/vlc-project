@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on CITI Lab VLC Project</title>
+    <link>http://vlc.lightiot.co/categories/news/</link>
+    <description>Recent content in News on CITI Lab VLC Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017 Alexis Duque</copyright>
+    <lastBuildDate>Wed, 20 Sep 2017 13:10:20 +0200</lastBuildDate>
+    
+	<atom:link href="http://vlc.lightiot.co/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>VLC Project website is alive!</title>
+      <link>http://vlc.lightiot.co/post/website-up/</link>
+      <pubDate>Wed, 20 Sep 2017 13:10:20 +0200</pubDate>
+      
+      <guid>http://vlc.lightiot.co/post/website-up/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

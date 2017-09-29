@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Openvlc on CITI Lab VLC Project</title>
+    <link>http://vlc.lightiot.co/tags/openvlc/</link>
+    <description>Recent content in Openvlc on CITI Lab VLC Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017 Alexis Duque</copyright>
+    <lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://vlc.lightiot.co/tags/openvlc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intra-Frame Bidirectional Transmission in Networks of Visible LEDs</title>
+      <link>http://vlc.lightiot.co/publication/wang2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/publication/wang2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Open Source research Platform for Embedded Visible Light Networking</title>
+      <link>http://vlc.lightiot.co/publication/wang2015e/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/publication/wang2015e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenVLC: Software-Defined Visible Light Embedded Networks</title>
+      <link>http://vlc.lightiot.co/publication/wang2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/publication/wang2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
