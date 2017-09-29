@@ -12,7 +12,7 @@ theme="finite"
 
 # Date format (refer to Go's date format: http://flippinggodateformat.com)
 # Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-#date_format = "2 January 2006"
+date_format = "01-01-2006"
 
 # Publications can have a Params.publication for citation references.
 # Publications can have a Params.kind, such as "book".

@@ -41,7 +41,7 @@ with open('test.bib') as bibtex_file:
         if ('month' in entry):
             file.write('date = "{} {}"'.format(entry['month'], entry['year']) + os.linesep)
         elif ('year' in entry):
-            file.write('date = "{}"'.format(entry['year']) + os.linesep)
+            file.write('date = "jan {}"'.format(entry['year']) + os.linesep)
         else:
             file.write('date = "{}"'.format('' + os.linesep))
             
@@ -68,6 +68,12 @@ with open('test.bib') as bibtex_file:
         file.write('url_project = ""' + os.linesep)
         file.write('url_slides = ""' + os.linesep)
         file.write('url_video = ""' + os.linesep)
-        file.write('tags = [""]' + os.linesep)
+        if 'keywords' in entry:
+            a = ""
+            for tag in entry['keywords']:
+                a = a+'"{}"'.format(tag)
+            file.write('tags = [""]' + os.linesep)            
+        else:
+            file.write('tags = [""]' + os.linesep)
         file.write('+++' + os.linesep)
         file.close() 

@@ -2,7 +2,7 @@
 type = "post"
 description = ""
 tags = [
-""
+"news", "conference"
 ]
 categories = [
 ""
@@ -21,7 +21,7 @@ The VLCS'17 program has been published on the workshop [website](http://vlcs17.w
 <h4>9:00am - 9:15am, Welcome by the chairs</h4>
 <h4 class="page-header">9:15am - 10:15am, Keynote by Hsin-Mu Tsai (National Taiwan University)</h4>
 <p><a href="#"><b><i>Title:</i> Elements of Visible Light Communication Research</b></a><b>  
-Hsin-Mu Tsai (National Taiwan University)</b></p><b>
+Hsin-Mu Tsai (National Taiwan University)</b></p>
 <h4>10:15am - 10:45am, Coffee break</h4>
 
 <h4 class="page-header">10:45am - 12:00am, Session I: Novel Architectures</h4>

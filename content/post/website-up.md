@@ -2,7 +2,7 @@
 type = "post"
 description = ""
 tags = [
-    ""
+    "news"
 ]
 categories = [
     "news"
