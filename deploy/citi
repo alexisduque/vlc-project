@@ -1,2 +1,2 @@
 put -r . /htdocs
-
+#sftp -b ../deploy/citi -P 115 vlc@capricorne.citi.insa-lyon.fr
