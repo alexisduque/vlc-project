@@ -29,7 +29,7 @@
   
   <url>
     <loc>http://vlc.lightiot.co/publication/pulsar/</loc>
-    <lastmod>2017-01-02T00:00:00+00:00</lastmod>
+    <lastmod>2017-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -123,14 +123,14 @@
   </url>
   
   <url>
-    <loc>http://vlc.lightiot.co/categories/</loc>
-    <lastmod>2017-09-20T13:13:33+02:00</lastmod>
+    <loc>http://vlc.lightiot.co/tags/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://vlc.lightiot.co/tags/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <loc>http://vlc.lightiot.co/categories/</loc>
+    <lastmod>2017-09-20T13:13:33+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -184,7 +184,7 @@
   
   <url>
     <loc>http://vlc.lightiot.co/tags/indoor-localization/</loc>
-    <lastmod>2017-01-02T00:00:00+00:00</lastmod>
+    <lastmod>2017-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -196,7 +196,7 @@
   
   <url>
     <loc>http://vlc.lightiot.co/tags/led-to-camera/</loc>
-    <lastmod>2017-01-02T00:00:00+00:00</lastmod>
+    <lastmod>2017-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -214,19 +214,19 @@
   
   <url>
     <loc>http://vlc.lightiot.co/tags/mobicom/</loc>
-    <lastmod>2017-01-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://vlc.lightiot.co/categories/news/</loc>
-    <lastmod>2017-09-20T13:10:20+02:00</lastmod>
+    <lastmod>2017-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://vlc.lightiot.co/tags/news/</loc>
     <lastmod>2017-09-20T13:13:33+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vlc.lightiot.co/categories/news/</loc>
+    <lastmod>2017-09-20T13:10:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -250,7 +250,7 @@
   
   <url>
     <loc>http://vlc.lightiot.co/publication/</loc>
-    <lastmod>2017-01-02T00:00:00+00:00</lastmod>
+    <lastmod>2017-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -267,13 +267,13 @@
   </url>
   
   <url>
-    <loc>http://vlc.lightiot.co/categories/software/</loc>
+    <loc>http://vlc.lightiot.co/tags/software/</loc>
     <lastmod>2017-09-20T12:23:48+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://vlc.lightiot.co/tags/software/</loc>
+    <loc>http://vlc.lightiot.co/categories/software/</loc>
     <lastmod>2017-09-20T12:23:48+02:00</lastmod>
     <priority>0</priority>
   </url>
