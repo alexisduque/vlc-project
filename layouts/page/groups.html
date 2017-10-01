@@ -1,0 +1,30 @@
+{{ define "main" }}
+<div class="row">
+    <div class="column small-12">
+        <h1 itemprop="name">{{ .Title }}</h1>
+        <p><i>Labs, research groups and companies involved in VLC.</i></p>
+    </div>
+</div>
+{{ range $i, $group := .Params.groups }}
+<div class="row">
+    <div class="column small-12 medium-10s end large-8 large-offset-0">
+        <p><b>{{ $group.university }}</b></p>
+        <article class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+            <div class="pub-info">
+                <div class="row">
+                    <div class="column small-10 medium-11">{{ $group.lab }}</div>
+                </div>
+                <div class="row">
+                    <div class="column small-10 medium-11" itemprop="datePublished"><i>{{ $group.leader}}</i></div>
+                </div>
+                <div class="row">
+                    <div class="column small-10 medium-11">
+                        {{ with $group.url_lab }}<a class="button pub-link hollow" href="{{ . | absURL }}">Group Website</a>{{ end }}
+                    </div>
+                </div>
+            </div>
+        </article>
+        <hr>
+    </div>
+</div>
+{{ end }} {{ end }}

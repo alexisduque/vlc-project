@@ -13,5 +13,5 @@ url_pdf = "https://doi.org/10.1145/1936652.1936679"
 url_project = ""
 url_slides = ""
 url_video = ""
-tags = ["flash-to-photodiode", "screen-to-camera"]
+tags = ["flash-to-camera", "screen-to-camera"]
 +++

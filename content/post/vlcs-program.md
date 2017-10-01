@@ -10,6 +10,7 @@ categories = [
 title = "VLCS'17 Workshop Program is up"
 date = 2017-09-20T13:13:33+02:00
 draft = false
+image = "logovlcs.png"
 +++
 
 The VLCS'17 program has been published on the workshop [website](http://vlcs17.winlab.rutgers.edu/program.html).<!--more-->

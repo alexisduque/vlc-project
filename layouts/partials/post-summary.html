@@ -1,8 +1,5 @@
 <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-{{ partial "post-metadata" . }}
-{{ if .Truncated }}
-{{ .Summary }}
+{{ partial "post-metadata" . }} {{ if .Truncated }} {{ if .Params.image }}
+<p><img src="{{ $.Site.BaseURL }}img/{{ .Params.image }}" class="article-banner" itemprop="image"></p> {{ end }} {{ .Summary }}
 <p class="text-right"><a href="{{ .RelPermalink }}">Read More…</a></p>
-{{ else }}
-{{ .Content }}
-{{ end }}	
+{{ else }} {{ .Content }} {{ end }}

@@ -1,5 +1,19 @@
-{{ if isset $.Params "tags" }}
 <div class="post-metadata">
+    <span><i>
+        {{ $authorsLen := len $.Params.authors }}
+        {{ if gt $authorsLen 0 }}
+            {{ range $k, $v := $.Params.authors }}
+                {{if lt $authorsLen 4}}
+                    {{ . }}; 
+                {{ end }}
+                {{if gt $authorsLen 3}}
+                    {{ if eq 0 $k }} {{.}} et Al. {{end}}
+                {{ end }} 
+            {{ end }}
+        {{ end }}</i>
+    </span>
+    <br>
+    {{ if isset $.Params "tags" }}    
     {{ $tagsLen := len $.Params.tags }} {{ if gt $tagsLen 0 }}
     <span class="post-tags">
     <span class="nowrap"><i class="fa fa-tags"></i>
@@ -7,4 +21,5 @@
     <a class="post-tag" href="{{ $.Site.BaseURL }}tags/{{ . | urlize | lower }}">{{ . }}</a>{{ if lt $k (sub $tagsLen 1) }},{{ if eq 0 $k }}</span>{{ end}} {{ end }} {{ end }}
     </span>
     {{ end }}
-</div>{{ end }}
+    {{ end }}
+</div>

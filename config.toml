@@ -39,11 +39,13 @@ pubs_count = 3
 [[params.position]]
   course = "PhD Student (INSA de Lyon, Rtone)"
   institution = "INSA de Lyon - Rtone"
+  lab = "Team AGORA, CITI Lab"
   year = 2018
   
 [[params.position2]]
   course = "Associate Professor (INSA de Lyon)"
   institution = "INSA de Lyon - Rtone"
+  lab = "Team AGORA, CITI Lab"
   year = 2018
 
 [[params.social]]
@@ -57,14 +59,28 @@ pubs_count = 3
   icon_pack = "fa"
   link = "mailto:razvan.stanica@insa-lyon.fr"
   text = "razvan.stanica@insa-lyon.fr"
-    
+
+[[params.social2]]
+  icon = "globe"
+  icon_pack = "fa"
+  link = "http://perso.citi.insa-lyon.fr/rstanica/"
+  text = "Homepage"
+  site = ""
+
 [[params.social2]]
   icon = "twitter"
   icon_pack = "fa"
   link = "https://twitter.com/@BestRazvanEver"
   text = "@BestRazvanEver"
   site = "Twitter"
-    
+
+[[params.social]]
+  icon = "globe"
+  icon_pack = "fa"
+  link = "https://alexisduque.me"
+  text = "Homepage"
+  site = ""
+
 [[params.social]]
   icon = "twitter"
   icon_pack = "fa"
@@ -96,7 +112,7 @@ pubs_count = 3
 [[menu.main]]
   name = "Blog"
   url = "/post/"
-  weight = 3
+  weight = 1
 
 [[menu.main]]
   name = "About us"
