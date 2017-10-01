@@ -9,7 +9,7 @@ layout = "groups"
 menu = "main"
 groups = [
     {university = "RISE SICS Computer Systems Lab., Uppsala, Sweden",leader = "Prof. Thiemo Voigt", lab="Networked Embedded Systems Group (NES)", url="https://www.sics.se/groups/networked-embedded-systems-group-nes", url_lab="http://citi-lab.fr"},
-    {university = "IMDEA Network, Madrid, Spain",leader = "Domenico Gustiniano",lab="Pervasive Wireless Systems Group", url_lab = "http://persys.networks.imdea.org/"},
+    {university = "IMDEA Network, Madrid, Spain",leader = "Domenico Giustiniano",lab="Pervasive Wireless Systems Group", url_lab = "http://persys.networks.imdea.org/"},
     {university = "INSA Lyon, INRIA, France", lab="AGORA, CITI Lab",leader = "Prof. Razvan Stanica", url_lab="http://citi-lab.fr"},
     {university = "Universitat Politècnica de Catalunya (UPC), Barcelona, Spain",lab="Wireless Network Group (WNG)", leader = "Prof. Josep Paradells", url_lab="https://wireless.upc.edu/en"},
     {university = "ETH Zurich, Switzerland",leader = "Prof. Thomas Gross", lab="Laboratory for Software Technology", url_lab="http://www.lst.inf.ethz.ch/"},
