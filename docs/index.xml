@@ -36,7 +36,8 @@
       <pubDate>Wed, 20 Sep 2017 12:23:48 +0200</pubDate>
       
       <guid>http://vlc.lightiot.co/camcomsim/</guid>
-      <description>CamComSim is a LED-to-camera communication simulator.</description>
+      <description>CamComSim is an open-source VLC LED-to-camera communication simulator.
+You can download the source code and contribute on  CamComSim Github Repository</description>
     </item>
     
     <item>
