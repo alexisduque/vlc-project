@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 Alexis Duque</copyright>
-    <lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://vlc.lightiot.co/tags/iot/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Demo: OpenVLC1.2 for Increased Data Rate with Embedded Systems</title>
+      <link>http://vlc.lightiot.co/publication/galisteo2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/publication/galisteo2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PassiveVLC</title>
+      <link>http://vlc.lightiot.co/publication/xu2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/publication/xu2017/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Intra-Frame Bidirectional Transmission in Networks of Visible LEDs</title>

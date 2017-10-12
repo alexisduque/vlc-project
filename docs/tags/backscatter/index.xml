@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Backscatter on CITI Lab VLC Project</title>
+    <link>http://vlc.lightiot.co/tags/backscatter/</link>
+    <description>Recent content in Backscatter on CITI Lab VLC Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017 Alexis Duque</copyright>
+    <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://vlc.lightiot.co/tags/backscatter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PassiveVLC</title>
+      <link>http://vlc.lightiot.co/publication/xu2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/publication/xu2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

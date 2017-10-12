@@ -7,10 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 Alexis Duque</copyright>
-    <lastBuildDate>Fri, 02 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://vlc.lightiot.co/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Automating Visual Privacy Protection Using a Smart LED</title>
+      <link>http://vlc.lightiot.co/publication/zhu2017b/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/publication/zhu2017b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo: OpenVLC1.2 for Increased Data Rate with Embedded Systems</title>
+      <link>http://vlc.lightiot.co/publication/galisteo2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/publication/galisteo2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PassiveVLC</title>
+      <link>http://vlc.lightiot.co/publication/xu2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/publication/xu2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReflexCode</title>
+      <link>http://vlc.lightiot.co/publication/yang2017c/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/publication/yang2017c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstructing Hand Poses Using Visible Light</title>
+      <link>http://vlc.lightiot.co/publication/li2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/publication/li2017/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Pulsar : Towards Ubiquitous Visible Light Localization</title>

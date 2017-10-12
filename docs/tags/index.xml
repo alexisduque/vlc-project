@@ -22,11 +22,38 @@
     </item>
     
     <item>
+      <title>Backscatter</title>
+      <link>http://vlc.lightiot.co/tags/backscatter/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/tags/backscatter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coding</title>
+      <link>http://vlc.lightiot.co/tags/coding/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/tags/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Conference</title>
       <link>http://vlc.lightiot.co/tags/conference/</link>
       <pubDate>Wed, 20 Sep 2017 13:13:33 +0200</pubDate>
       
       <guid>http://vlc.lightiot.co/tags/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>http://vlc.lightiot.co/tags/demo/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/tags/demo/</guid>
       <description></description>
     </item>
     
@@ -69,7 +96,7 @@
     <item>
       <title>Iot</title>
       <link>http://vlc.lightiot.co/tags/iot/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://vlc.lightiot.co/tags/iot/</guid>
       <description></description>
@@ -78,7 +105,7 @@
     <item>
       <title>Led to Camera</title>
       <link>http://vlc.lightiot.co/tags/led-to-camera/</link>
-      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://vlc.lightiot.co/tags/led-to-camera/</guid>
       <description></description>
@@ -114,7 +141,7 @@
     <item>
       <title>News</title>
       <link>http://vlc.lightiot.co/tags/news/</link>
-      <pubDate>Wed, 20 Sep 2017 13:13:33 +0200</pubDate>
+      <pubDate>Thu, 12 Oct 2017 12:57:59 +0200</pubDate>
       
       <guid>http://vlc.lightiot.co/tags/news/</guid>
       <description></description>
@@ -132,7 +159,7 @@
     <item>
       <title>Openvlc</title>
       <link>http://vlc.lightiot.co/tags/openvlc/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://vlc.lightiot.co/tags/openvlc/</guid>
       <description></description>
@@ -153,6 +180,15 @@
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       
       <guid>http://vlc.lightiot.co/tags/screen-to-camera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensing</title>
+      <link>http://vlc.lightiot.co/tags/sensing/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/tags/sensing/</guid>
       <description></description>
     </item>
     

@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 Alexis Duque</copyright>
-    <lastBuildDate>Wed, 20 Sep 2017 13:13:33 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 12 Oct 2017 12:57:59 +0200</lastBuildDate>
     
 	<atom:link href="http://vlc.lightiot.co/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aili: VLC for body sensing</title>
+      <link>http://vlc.lightiot.co/post/aili/</link>
+      <pubDate>Thu, 12 Oct 2017 12:57:59 +0200</pubDate>
+      
+      <guid>http://vlc.lightiot.co/post/aili/</guid>
+      <description>At Ubicomp&amp;rsquo;17, Tianxing Li form Dartmouth College introduce Aili, a table lamp able to reconstruct a 3D hand skeleton in real time, requiring neither cameras nor on-body sensing devices thanks to visible light.
+Aili consists of an LED panel in a lampshade and a few low-cost photodiodes embedded in the lamp base. Aili reconstructs the 3D motion by sensing the panel light-beam obstruction by the hand.
+This work shows original application of VLC in the field of sensing.</description>
+    </item>
     
     <item>
       <title>VLCS&#39;17 Workshop Program is up</title>

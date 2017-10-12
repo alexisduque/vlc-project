@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://vlc.lightiot.co/post/aili/</loc>
+    <lastmod>2017-10-12T12:57:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vlc.lightiot.co/publication/zhu2017b/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vlc.lightiot.co/publication/galisteo2017/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vlc.lightiot.co/publication/xu2017/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vlc.lightiot.co/publication/yang2017c/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://vlc.lightiot.co/post/vlcs-program/</loc>
     <lastmod>2017-09-20T13:13:33+02:00</lastmod>
   </url>
@@ -25,6 +50,11 @@
   <url>
     <loc>http://vlc.lightiot.co/groups/</loc>
     <lastmod>2017-09-20T12:22:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vlc.lightiot.co/publication/li2017/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -135,8 +165,14 @@
   </url>
   
   <url>
+    <loc>http://vlc.lightiot.co/tags/backscatter/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://vlc.lightiot.co/</loc>
-    <lastmod>2017-09-20T13:13:33+02:00</lastmod>
+    <lastmod>2017-10-12T12:57:59+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -147,8 +183,20 @@
   </url>
   
   <url>
+    <loc>http://vlc.lightiot.co/tags/coding/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://vlc.lightiot.co/tags/conference/</loc>
     <lastmod>2017-09-20T13:13:33+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vlc.lightiot.co/tags/demo/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -190,13 +238,13 @@
   
   <url>
     <loc>http://vlc.lightiot.co/tags/iot/</loc>
-    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://vlc.lightiot.co/tags/led-to-camera/</loc>
-    <lastmod>2017-06-02T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -220,13 +268,13 @@
   
   <url>
     <loc>http://vlc.lightiot.co/tags/news/</loc>
-    <lastmod>2017-09-20T13:13:33+02:00</lastmod>
+    <lastmod>2017-10-12T12:57:59+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://vlc.lightiot.co/categories/news/</loc>
-    <lastmod>2017-09-20T13:10:20+02:00</lastmod>
+    <lastmod>2017-10-12T12:57:59+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -238,19 +286,19 @@
   
   <url>
     <loc>http://vlc.lightiot.co/tags/openvlc/</loc>
-    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://vlc.lightiot.co/post/</loc>
-    <lastmod>2017-09-20T13:13:33+02:00</lastmod>
+    <lastmod>2017-10-12T12:57:59+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://vlc.lightiot.co/publication/</loc>
-    <lastmod>2017-06-02T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -263,6 +311,12 @@
   <url>
     <loc>http://vlc.lightiot.co/tags/screen-to-camera/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vlc.lightiot.co/tags/sensing/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
