@@ -84,7 +84,8 @@ This work shows original application of VLC in the field of sensing.</descriptio
       
       <guid>http://vlc.lightiot.co/camcomsim/</guid>
       <description>CamComSim is an open-source VLC LED-to-camera communication simulator.
-You can download the source code and contribute on  CamComSim Github Repository</description>
+You can download the source code and contribute on  CamComSim Github Repository
+You can also browse the CamComSim Javadoc</description>
     </item>
     
     <item>
