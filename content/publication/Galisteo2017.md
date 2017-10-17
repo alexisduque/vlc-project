@@ -13,5 +13,5 @@ url_pdf = "https://doi.org/10.1145/3129881.3129895"
 url_project = ""
 url_slides = ""
 url_video = ""
-tags = ["OpenVLC", "IoT", "demo"]
+tags = ["OpenVLC", "IoT", "demo", "vlcs"]
 +++

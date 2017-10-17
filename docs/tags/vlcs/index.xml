@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vlcs on CITI Lab VLC Project</title>
+    <link>http://vlc.lightiot.co/tags/vlcs/</link>
+    <description>Recent content in Vlcs on CITI Lab VLC Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017 Alexis Duque</copyright>
+    <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://vlc.lightiot.co/tags/vlcs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Battery-free Visible Light Sensing</title>
+      <link>http://vlc.lightiot.co/publication/varshney2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/publication/varshney2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo: An Open-Access Research Testbed for Visible Light Communication</title>
+      <link>http://vlc.lightiot.co/publication/zamora2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/publication/zamora2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo: Battery-free Visible Light Sensing</title>
+      <link>http://vlc.lightiot.co/publication/soleiman2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/publication/soleiman2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo: OpenVLC1.2 for Increased Data Rate with Embedded Systems</title>
+      <link>http://vlc.lightiot.co/publication/galisteo2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/publication/galisteo2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roaming in Connecting Light</title>
+      <link>http://vlc.lightiot.co/publication/yang2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/publication/yang2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roaming in Connecting Light</title>
+      <link>http://vlc.lightiot.co/publication/yang2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/publication/yang2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SeedLight : Hardening LED-to-Camera Communication with Random Linear Coding</title>
+      <link>http://vlc.lightiot.co/publication/duque2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/publication/duque2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

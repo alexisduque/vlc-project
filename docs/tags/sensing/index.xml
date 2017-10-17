@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 Alexis Duque</copyright>
-    <lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://vlc.lightiot.co/tags/sensing/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Roaming in Connecting Light</title>
+      <link>http://vlc.lightiot.co/publication/yang2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/publication/yang2017/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reconstructing Hand Poses Using Visible Light</title>

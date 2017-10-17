@@ -31,6 +31,15 @@
     </item>
     
     <item>
+      <title>Code</title>
+      <link>http://vlc.lightiot.co/tags/code/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Coding</title>
       <link>http://vlc.lightiot.co/tags/coding/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
@@ -186,7 +195,7 @@
     <item>
       <title>Sensing</title>
       <link>http://vlc.lightiot.co/tags/sensing/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://vlc.lightiot.co/tags/sensing/</guid>
       <description></description>
@@ -198,6 +207,24 @@
       <pubDate>Wed, 20 Sep 2017 12:23:48 +0200</pubDate>
       
       <guid>http://vlc.lightiot.co/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testbed</title>
+      <link>http://vlc.lightiot.co/tags/testbed/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/tags/testbed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vlcs</title>
+      <link>http://vlc.lightiot.co/tags/vlcs/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.lightiot.co/tags/vlcs/</guid>
       <description></description>
     </item>
     
