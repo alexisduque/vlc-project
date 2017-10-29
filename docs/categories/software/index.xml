@@ -19,8 +19,9 @@
       
       <guid>http://vlc.lightiot.co/camcomsim/</guid>
       <description>CamComSim is an open-source VLC LED-to-camera communication simulator.
-You can download the source code and contribute on  CamComSim Github Repository
-You can also browse the CamComSim Javadoc</description>
+You can download the source code and contribute on  CamComSim Github Repository.
+You can also browse the CamComSim Javadoc .
+CamComSim research report is available on the HAL library.</description>
     </item>
     
   </channel>

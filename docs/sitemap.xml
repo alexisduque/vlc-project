@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://vlc.lightiot.co/post/vlcs-backscatter-demo/</loc>
+    <lastmod>2017-10-23T03:08:00+02:00</lastmod>
+  </url>
   
   <url>
     <loc>http://vlc.lightiot.co/post/openvlc12/</loc>
@@ -195,13 +201,13 @@
   
   <url>
     <loc>http://vlc.lightiot.co/tags/backscatter/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-23T03:08:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://vlc.lightiot.co/</loc>
-    <lastmod>2017-10-16T16:26:10+02:00</lastmod>
+    <lastmod>2017-10-23T03:08:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -303,13 +309,13 @@
   
   <url>
     <loc>http://vlc.lightiot.co/tags/news/</loc>
-    <lastmod>2017-10-16T16:26:10+02:00</lastmod>
+    <lastmod>2017-10-23T03:08:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://vlc.lightiot.co/categories/news/</loc>
-    <lastmod>2017-10-16T16:26:10+02:00</lastmod>
+    <lastmod>2017-10-23T03:08:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -327,7 +333,7 @@
   
   <url>
     <loc>http://vlc.lightiot.co/post/</loc>
-    <lastmod>2017-10-16T16:26:10+02:00</lastmod>
+    <lastmod>2017-10-23T03:08:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -381,7 +387,7 @@
   
   <url>
     <loc>http://vlc.lightiot.co/tags/vlcs/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-23T03:08:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   

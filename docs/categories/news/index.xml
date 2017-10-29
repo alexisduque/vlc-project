@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 Alexis Duque</copyright>
-    <lastBuildDate>Mon, 16 Oct 2017 16:26:10 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 23 Oct 2017 03:08:00 +0200</lastBuildDate>
     
 	<atom:link href="http://vlc.lightiot.co/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>VLC Demo: Battery-free Visible Light Sensing</title>
+      <link>http://vlc.lightiot.co/post/vlcs-backscatter-demo/</link>
+      <pubDate>Mon, 23 Oct 2017 03:08:00 +0200</pubDate>
+      
+      <guid>http://vlc.lightiot.co/post/vlcs-backscatter-demo/</guid>
+      <description>During the 4th VLCS workshop that took place on Monday, October 16th during the Mobicom week at Snowbird, Andreas Soleiman and Ambuj Varshney from Uppsala University (Sweden) introduced a new battery-free gesture sensing system.
+Their prototype relies on visible light sensing and backscatter technology to achieve accurate hand motion sensing and wireless communication using RFID without any battery. They take advantage off 2 solar cells, one for powering the small circuit and charging a 2uF capacitance, and the second, much smaller, as a light sensor.</description>
+    </item>
     
     <item>
       <title>Open VLC 1.2 released!</title>
