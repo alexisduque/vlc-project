@@ -12,7 +12,9 @@ menu = "main"
 CamComSim is an open-source VLC LED-to-camera communication simulator.
 
 You can download the **source code** and contribute on <i class="fa fa-github" aria-hidden="true"></i>
-[CamComSim Github Repository](https://github.com/vlc-citi-lab/camcomsim)
+[CamComSim Github Repository](https://github.com/vlc-citi-lab/camcomsim).
 
 You can also browse the 
-[**CamComSim Javadoc**](https://vlc-citi-lab.github.io/camcomsim)  <i class="fa fa-file-code-o" aria-hidden="true"> </i>
+[**CamComSim Javadoc**](https://vlc-citi-lab.github.io/camcomsim)  <i class="fa fa-file-code-o" aria-hidden="true"> </i>.
+
+CamComSim **research report** is available on the [HAL library](https://hal.inria.fr/view/index/docid/1625734).
