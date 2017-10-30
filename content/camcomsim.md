@@ -17,4 +17,4 @@ You can download the **source code** and contribute on <i class="fa fa-github" a
 You can also browse the 
 [**CamComSim Javadoc**](https://vlc-citi-lab.github.io/camcomsim)  <i class="fa fa-file-code-o" aria-hidden="true"> </i>.
 
-CamComSim **research report** is available on the [HAL library](https://hal.inria.fr/view/index/docid/1625734).
+CamComSim **research report** is available on the [HAL library](https://hal.inria.fr/hal-01625734/document).
