@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 Alexis Duque</copyright>
-    <lastBuildDate>Mon, 23 Oct 2017 03:08:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2017 11:13:31 +0100</lastBuildDate>
     
 	<atom:link href="http://vlc.lightiot.co/tags/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SmartLight won the Best Paper Award at Sensys&#39;17</title>
+      <link>http://vlc.lightiot.co/post/sensys-best-paper/</link>
+      <pubDate>Fri, 01 Dec 2017 11:13:31 +0100</pubDate>
+      
+      <guid>http://vlc.lightiot.co/post/sensys-best-paper/</guid>
+      <description>The paper SmartLight: Light-weight 3D Indoor Localization Using a Single LED Lamp, Liu, Song and He, Tian received the Best Paper Awards of the ACM Sensys conference that took place in Delft, Netherlands from November 6th to 9th.
+The authors introduce SmartLight, a novel approach of VLC based 3D indoor localization using a only one ceiling LED. With a single modified LED lamp, the system is capable of localizing a large number of light sensors in a room.</description>
+    </item>
     
     <item>
       <title>VLC Demo: Battery-free Visible Light Sensing</title>

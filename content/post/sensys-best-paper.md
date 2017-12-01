@@ -2,6 +2,12 @@
 title: "SmartLight won the Best Paper Award at Sensys'17"
 date: 2017-12-01T11:13:31+01:00
 draft: false
+tags: [
+    "news", "vlcs", "indoor localization"
+]
+categories: [
+    "news"
+]
 ---
 
 The paper ***SmartLight: Light-weight 3D Indoor Localization Using a Single LED Lamp, Liu, Song and He, Tian*** received the *Best Paper Awards* of the [**ACM Sensys**](http://sensys.acm.org/2017/) conference that took place in Delft, Netherlands from November 6th to 9th.
