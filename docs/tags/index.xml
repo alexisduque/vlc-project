@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CITI Lab VLC Project</title>
+    <title>Tags on CITI Lab VLC Project</title>
     <link>http://vlc.project.citi-lab.fr/tags/</link>
-    <description>Recent content on CITI Lab VLC Project</description>
+    <description>Recent content in Tags on CITI Lab VLC Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 Alexis Duque</copyright>
@@ -13,11 +13,218 @@
     
     
     <item>
-      <title>Employing smartphones Xenon flashlight for mobile payment</title>
-      <link>http://vlc.project.citi-lab.fr/publication/galal2014/</link>
+      <title></title>
+      <link>http://vlc.project.citi-lab.fr/tags/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.project.citi-lab.fr/publication/galal2014/</guid>
+      <guid>http://vlc.project.citi-lab.fr/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Backscatter</title>
+      <link>http://vlc.project.citi-lab.fr/tags/backscatter/</link>
+      <pubDate>Mon, 23 Oct 2017 03:08:00 +0200</pubDate>
+      
+      <guid>http://vlc.project.citi-lab.fr/tags/backscatter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code</title>
+      <link>http://vlc.project.citi-lab.fr/tags/code/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.project.citi-lab.fr/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coding</title>
+      <link>http://vlc.project.citi-lab.fr/tags/coding/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.project.citi-lab.fr/tags/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conference</title>
+      <link>http://vlc.project.citi-lab.fr/tags/conference/</link>
+      <pubDate>Wed, 20 Sep 2017 13:13:33 +0200</pubDate>
+      
+      <guid>http://vlc.project.citi-lab.fr/tags/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>http://vlc.project.citi-lab.fr/tags/demo/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.project.citi-lab.fr/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disney</title>
+      <link>http://vlc.project.citi-lab.fr/tags/disney/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.project.citi-lab.fr/tags/disney/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flash to Camera</title>
+      <link>http://vlc.project.citi-lab.fr/tags/flash-to-camera/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.project.citi-lab.fr/tags/flash-to-camera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flash to Photodiode</title>
+      <link>http://vlc.project.citi-lab.fr/tags/flash-to-photodiode/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.project.citi-lab.fr/tags/flash-to-photodiode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indoor Localization</title>
+      <link>http://vlc.project.citi-lab.fr/tags/indoor-localization/</link>
+      <pubDate>Fri, 01 Dec 2017 11:13:31 +0100</pubDate>
+      
+      <guid>http://vlc.project.citi-lab.fr/tags/indoor-localization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iot</title>
+      <link>http://vlc.project.citi-lab.fr/tags/iot/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.project.citi-lab.fr/tags/iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Led to Camera</title>
+      <link>http://vlc.project.citi-lab.fr/tags/led-to-camera/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.project.citi-lab.fr/tags/led-to-camera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Led to Led</title>
+      <link>http://vlc.project.citi-lab.fr/tags/led-to-led/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.project.citi-lab.fr/tags/led-to-led/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Los</title>
+      <link>http://vlc.project.citi-lab.fr/tags/los/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.project.citi-lab.fr/tags/los/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobicom</title>
+      <link>http://vlc.project.citi-lab.fr/tags/mobicom/</link>
+      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.project.citi-lab.fr/tags/mobicom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>http://vlc.project.citi-lab.fr/tags/news/</link>
+      <pubDate>Fri, 01 Dec 2017 11:13:31 +0100</pubDate>
+      
+      <guid>http://vlc.project.citi-lab.fr/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nlos</title>
+      <link>http://vlc.project.citi-lab.fr/tags/nlos/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.project.citi-lab.fr/tags/nlos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Openvlc</title>
+      <link>http://vlc.project.citi-lab.fr/tags/openvlc/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.project.citi-lab.fr/tags/openvlc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raptor Coding</title>
+      <link>http://vlc.project.citi-lab.fr/tags/raptor-coding/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.project.citi-lab.fr/tags/raptor-coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Screen to Camera</title>
+      <link>http://vlc.project.citi-lab.fr/tags/screen-to-camera/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.project.citi-lab.fr/tags/screen-to-camera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensing</title>
+      <link>http://vlc.project.citi-lab.fr/tags/sensing/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.project.citi-lab.fr/tags/sensing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>http://vlc.project.citi-lab.fr/tags/software/</link>
+      <pubDate>Wed, 20 Sep 2017 12:23:48 +0200</pubDate>
+      
+      <guid>http://vlc.project.citi-lab.fr/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testbed</title>
+      <link>http://vlc.project.citi-lab.fr/tags/testbed/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://vlc.project.citi-lab.fr/tags/testbed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vlcs</title>
+      <link>http://vlc.project.citi-lab.fr/tags/vlcs/</link>
+      <pubDate>Fri, 01 Dec 2017 11:13:31 +0100</pubDate>
+      
+      <guid>http://vlc.project.citi-lab.fr/tags/vlcs/</guid>
       <description></description>
     </item>
     
