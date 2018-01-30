@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Backscatter on CITI Lab VLC Project</title>
-    <link>http://vlc.lightiot.co/tags/backscatter/</link>
+    <link>http://vlc.project.citi-lab.fr/tags/backscatter/</link>
     <description>Recent content in Backscatter on CITI Lab VLC Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 Alexis Duque</copyright>
     <lastBuildDate>Mon, 23 Oct 2017 03:08:00 +0200</lastBuildDate>
     
-	<atom:link href="http://vlc.lightiot.co/tags/backscatter/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://vlc.project.citi-lab.fr/tags/backscatter/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>VLC Demo: Battery-free Visible Light Sensing</title>
-      <link>http://vlc.lightiot.co/post/vlcs-backscatter-demo/</link>
+      <link>http://vlc.project.citi-lab.fr/post/vlcs-backscatter-demo/</link>
       <pubDate>Mon, 23 Oct 2017 03:08:00 +0200</pubDate>
       
-      <guid>http://vlc.lightiot.co/post/vlcs-backscatter-demo/</guid>
+      <guid>http://vlc.project.citi-lab.fr/post/vlcs-backscatter-demo/</guid>
       <description>During the 4th VLCS workshop that took place on Monday, October 16th during the Mobicom week at Snowbird, Andreas Soleiman and Ambuj Varshney from Uppsala University (Sweden) introduced a new battery-free gesture sensing system.
 Their prototype relies on visible light sensing and backscatter technology to achieve accurate hand motion sensing and wireless communication using RFID without any battery. They take advantage off 2 solar cells, one for powering the small circuit and charging a 2uF capacitance, and the second, much smaller, as a light sensor.</description>
     </item>
     
     <item>
       <title>Battery-free Visible Light Sensing</title>
-      <link>http://vlc.lightiot.co/publication/varshney2017/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/varshney2017/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/varshney2017/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/varshney2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo: Battery-free Visible Light Sensing</title>
-      <link>http://vlc.lightiot.co/publication/soleiman2017/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/soleiman2017/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/soleiman2017/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/soleiman2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PassiveVLC</title>
-      <link>http://vlc.lightiot.co/publication/xu2017/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/xu2017/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/xu2017/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/xu2017/</guid>
       <description></description>
     </item>
     

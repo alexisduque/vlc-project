@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sensing on CITI Lab VLC Project</title>
-    <link>http://vlc.lightiot.co/tags/sensing/</link>
+    <link>http://vlc.project.citi-lab.fr/tags/sensing/</link>
     <description>Recent content in Sensing on CITI Lab VLC Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 Alexis Duque</copyright>
     <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://vlc.lightiot.co/tags/sensing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://vlc.project.citi-lab.fr/tags/sensing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Roaming in Connecting Light</title>
-      <link>http://vlc.lightiot.co/publication/yang2017/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/yang2017/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/yang2017/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/yang2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reconstructing Hand Poses Using Visible Light</title>
-      <link>http://vlc.lightiot.co/publication/li2017/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/li2017/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/li2017/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/li2017/</guid>
       <description></description>
     </item>
     

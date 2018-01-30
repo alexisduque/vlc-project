@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mobicom on CITI Lab VLC Project</title>
-    <link>http://vlc.lightiot.co/tags/mobicom/</link>
+    <link>http://vlc.project.citi-lab.fr/tags/mobicom/</link>
     <description>Recent content in Mobicom on CITI Lab VLC Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 Alexis Duque</copyright>
     <lastBuildDate>Fri, 02 Jun 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://vlc.lightiot.co/tags/mobicom/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://vlc.project.citi-lab.fr/tags/mobicom/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Pulsar : Towards Ubiquitous Visible Light Localization</title>
-      <link>http://vlc.lightiot.co/publication/pulsar/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/pulsar/</link>
       <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/pulsar/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/pulsar/</guid>
       <description></description>
     </item>
     

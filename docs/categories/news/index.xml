@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on CITI Lab VLC Project</title>
-    <link>http://vlc.lightiot.co/categories/news/</link>
+    <link>http://vlc.project.citi-lab.fr/categories/news/</link>
     <description>Recent content in News on CITI Lab VLC Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 Alexis Duque</copyright>
     <lastBuildDate>Fri, 01 Dec 2017 11:13:31 +0100</lastBuildDate>
     
-	<atom:link href="http://vlc.lightiot.co/categories/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://vlc.project.citi-lab.fr/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SmartLight won the Best Paper Award at Sensys&#39;17</title>
-      <link>http://vlc.lightiot.co/post/sensys-best-paper/</link>
+      <link>http://vlc.project.citi-lab.fr/post/sensys-best-paper/</link>
       <pubDate>Fri, 01 Dec 2017 11:13:31 +0100</pubDate>
       
-      <guid>http://vlc.lightiot.co/post/sensys-best-paper/</guid>
+      <guid>http://vlc.project.citi-lab.fr/post/sensys-best-paper/</guid>
       <description>The paper SmartLight: Light-weight 3D Indoor Localization Using a Single LED Lamp, Liu, Song and He, Tian received the Best Paper Awards of the ACM Sensys conference that took place in Delft, Netherlands from November 6th to 9th.
 The authors introduce SmartLight, a novel approach of VLC based 3D indoor localization using a only one ceiling LED. With a single modified LED lamp, the system is capable of localizing a large number of light sensors in a room.</description>
     </item>
     
     <item>
       <title>VLC Demo: Battery-free Visible Light Sensing</title>
-      <link>http://vlc.lightiot.co/post/vlcs-backscatter-demo/</link>
+      <link>http://vlc.project.citi-lab.fr/post/vlcs-backscatter-demo/</link>
       <pubDate>Mon, 23 Oct 2017 03:08:00 +0200</pubDate>
       
-      <guid>http://vlc.lightiot.co/post/vlcs-backscatter-demo/</guid>
+      <guid>http://vlc.project.citi-lab.fr/post/vlcs-backscatter-demo/</guid>
       <description>During the 4th VLCS workshop that took place on Monday, October 16th during the Mobicom week at Snowbird, Andreas Soleiman and Ambuj Varshney from Uppsala University (Sweden) introduced a new battery-free gesture sensing system.
 Their prototype relies on visible light sensing and backscatter technology to achieve accurate hand motion sensing and wireless communication using RFID without any battery. They take advantage off 2 solar cells, one for powering the small circuit and charging a 2uF capacitance, and the second, much smaller, as a light sensor.</description>
     </item>
     
     <item>
       <title>Open VLC 1.2 released!</title>
-      <link>http://vlc.lightiot.co/post/openvlc12/</link>
+      <link>http://vlc.project.citi-lab.fr/post/openvlc12/</link>
       <pubDate>Mon, 16 Oct 2017 16:26:10 +0200</pubDate>
       
-      <guid>http://vlc.lightiot.co/post/openvlc12/</guid>
+      <guid>http://vlc.project.citi-lab.fr/post/openvlc12/</guid>
       <description>This monday, during the VLCS&amp;rsquo;17 Workshop collocated with Mobicom at Snowbird, USA, Ander Galisteo, Domenico Giustiniano (IMDEA Networks Institute, Madrid), and Hongjia Wu, Qing Wang, Diego Juara and Marco Zuniga (Delft University of Technology), unveiled the new version of the open-source VLC prototyping plateform OpenVLC presenting a poster.
 They improve the plateform data-rate and performance thanks to new hardware (better photodetector, high-power LED circuit) and leveraging the Beaglebone Black Programmable Real-time Unit (PRU) to provide better timing and clock accuracy.</description>
     </item>
     
     <item>
       <title>Aili: VLC for body sensing</title>
-      <link>http://vlc.lightiot.co/post/aili/</link>
+      <link>http://vlc.project.citi-lab.fr/post/aili/</link>
       <pubDate>Thu, 12 Oct 2017 12:57:59 +0200</pubDate>
       
-      <guid>http://vlc.lightiot.co/post/aili/</guid>
+      <guid>http://vlc.project.citi-lab.fr/post/aili/</guid>
       <description>At Ubicomp&amp;rsquo;17, Tianxing Li form Dartmouth College introduce Aili, a table lamp able to reconstruct a 3D hand skeleton in real time, requiring neither cameras nor on-body sensing devices thanks to visible light.
 Aili consists of an LED panel in a lampshade and a few low-cost photodiodes embedded in the lamp base. Aili reconstructs the 3D motion by sensing the panel light-beam obstruction by the hand.
 This work shows original application of VLC in the field of sensing.</description>
@@ -55,10 +55,10 @@ This work shows original application of VLC in the field of sensing.</descriptio
     
     <item>
       <title>VLC Project website is alive!</title>
-      <link>http://vlc.lightiot.co/post/website-up/</link>
+      <link>http://vlc.project.citi-lab.fr/post/website-up/</link>
       <pubDate>Wed, 20 Sep 2017 13:10:20 +0200</pubDate>
       
-      <guid>http://vlc.lightiot.co/post/website-up/</guid>
+      <guid>http://vlc.project.citi-lab.fr/post/website-up/</guid>
       <description></description>
     </item>
     

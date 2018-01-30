@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Disney on CITI Lab VLC Project</title>
-    <link>http://vlc.lightiot.co/tags/disney/</link>
+    <link>http://vlc.project.citi-lab.fr/tags/disney/</link>
     <description>Recent content in Disney on CITI Lab VLC Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 Alexis Duque</copyright>
     <lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://vlc.lightiot.co/tags/disney/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://vlc.project.citi-lab.fr/tags/disney/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Low-complexity Visible Light Networking with LED-to-LED communication</title>
-      <link>http://vlc.lightiot.co/publication/giustiniano2012/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/giustiniano2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/giustiniano2012/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/giustiniano2012/</guid>
       <description></description>
     </item>
     

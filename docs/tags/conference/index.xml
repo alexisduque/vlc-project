@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conference on CITI Lab VLC Project</title>
-    <link>http://vlc.lightiot.co/tags/conference/</link>
+    <link>http://vlc.project.citi-lab.fr/tags/conference/</link>
     <description>Recent content in Conference on CITI Lab VLC Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 Alexis Duque</copyright>
     <lastBuildDate>Wed, 20 Sep 2017 13:13:33 +0200</lastBuildDate>
     
-	<atom:link href="http://vlc.lightiot.co/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://vlc.project.citi-lab.fr/tags/conference/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>VLCS&#39;17 Workshop Program is up</title>
-      <link>http://vlc.lightiot.co/post/vlcs-program/</link>
+      <link>http://vlc.project.citi-lab.fr/post/vlcs-program/</link>
       <pubDate>Wed, 20 Sep 2017 13:13:33 +0200</pubDate>
       
-      <guid>http://vlc.lightiot.co/post/vlcs-program/</guid>
+      <guid>http://vlc.project.citi-lab.fr/post/vlcs-program/</guid>
       <description>&lt;p&gt;The VLCS&amp;rsquo;17 program has been published on the workshop &lt;a href=&#34;http://vlcs17.winlab.rutgers.edu/program.html&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     

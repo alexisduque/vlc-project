@@ -1,230 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on CITI Lab VLC Project</title>
-    <link>http://vlc.lightiot.co/tags/</link>
-    <description>Recent content in Tags on CITI Lab VLC Project</description>
+    <title>CITI Lab VLC Project</title>
+    <link>http://vlc.project.citi-lab.fr/tags/</link>
+    <description>Recent content on CITI Lab VLC Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 Alexis Duque</copyright>
     <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://vlc.lightiot.co/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://vlc.project.citi-lab.fr/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>http://vlc.lightiot.co/tags/</link>
+      <title>Employing smartphones Xenon flashlight for mobile payment</title>
+      <link>http://vlc.project.citi-lab.fr/publication/galal2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/tags/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Backscatter</title>
-      <link>http://vlc.lightiot.co/tags/backscatter/</link>
-      <pubDate>Mon, 23 Oct 2017 03:08:00 +0200</pubDate>
-      
-      <guid>http://vlc.lightiot.co/tags/backscatter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Code</title>
-      <link>http://vlc.lightiot.co/tags/code/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://vlc.lightiot.co/tags/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Coding</title>
-      <link>http://vlc.lightiot.co/tags/coding/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://vlc.lightiot.co/tags/coding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conference</title>
-      <link>http://vlc.lightiot.co/tags/conference/</link>
-      <pubDate>Wed, 20 Sep 2017 13:13:33 +0200</pubDate>
-      
-      <guid>http://vlc.lightiot.co/tags/conference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
-      <link>http://vlc.lightiot.co/tags/demo/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://vlc.lightiot.co/tags/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Disney</title>
-      <link>http://vlc.lightiot.co/tags/disney/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://vlc.lightiot.co/tags/disney/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Flash to Camera</title>
-      <link>http://vlc.lightiot.co/tags/flash-to-camera/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://vlc.lightiot.co/tags/flash-to-camera/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Flash to Photodiode</title>
-      <link>http://vlc.lightiot.co/tags/flash-to-photodiode/</link>
-      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://vlc.lightiot.co/tags/flash-to-photodiode/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Indoor Localization</title>
-      <link>http://vlc.lightiot.co/tags/indoor-localization/</link>
-      <pubDate>Fri, 01 Dec 2017 11:13:31 +0100</pubDate>
-      
-      <guid>http://vlc.lightiot.co/tags/indoor-localization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Iot</title>
-      <link>http://vlc.lightiot.co/tags/iot/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://vlc.lightiot.co/tags/iot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Led to Camera</title>
-      <link>http://vlc.lightiot.co/tags/led-to-camera/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://vlc.lightiot.co/tags/led-to-camera/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Led to Led</title>
-      <link>http://vlc.lightiot.co/tags/led-to-led/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://vlc.lightiot.co/tags/led-to-led/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Los</title>
-      <link>http://vlc.lightiot.co/tags/los/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://vlc.lightiot.co/tags/los/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mobicom</title>
-      <link>http://vlc.lightiot.co/tags/mobicom/</link>
-      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://vlc.lightiot.co/tags/mobicom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>News</title>
-      <link>http://vlc.lightiot.co/tags/news/</link>
-      <pubDate>Fri, 01 Dec 2017 11:13:31 +0100</pubDate>
-      
-      <guid>http://vlc.lightiot.co/tags/news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nlos</title>
-      <link>http://vlc.lightiot.co/tags/nlos/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://vlc.lightiot.co/tags/nlos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Openvlc</title>
-      <link>http://vlc.lightiot.co/tags/openvlc/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://vlc.lightiot.co/tags/openvlc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Raptor Coding</title>
-      <link>http://vlc.lightiot.co/tags/raptor-coding/</link>
-      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://vlc.lightiot.co/tags/raptor-coding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Screen to Camera</title>
-      <link>http://vlc.lightiot.co/tags/screen-to-camera/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://vlc.lightiot.co/tags/screen-to-camera/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sensing</title>
-      <link>http://vlc.lightiot.co/tags/sensing/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://vlc.lightiot.co/tags/sensing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software</title>
-      <link>http://vlc.lightiot.co/tags/software/</link>
-      <pubDate>Wed, 20 Sep 2017 12:23:48 +0200</pubDate>
-      
-      <guid>http://vlc.lightiot.co/tags/software/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Testbed</title>
-      <link>http://vlc.lightiot.co/tags/testbed/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://vlc.lightiot.co/tags/testbed/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vlcs</title>
-      <link>http://vlc.lightiot.co/tags/vlcs/</link>
-      <pubDate>Fri, 01 Dec 2017 11:13:31 +0100</pubDate>
-      
-      <guid>http://vlc.lightiot.co/tags/vlcs/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/galal2014/</guid>
       <description></description>
     </item>
     

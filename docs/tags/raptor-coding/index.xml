@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Raptor Coding on CITI Lab VLC Project</title>
-    <link>http://vlc.lightiot.co/tags/raptor-coding/</link>
+    <link>http://vlc.project.citi-lab.fr/tags/raptor-coding/</link>
     <description>Recent content in Raptor Coding on CITI Lab VLC Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 Alexis Duque</copyright>
     <lastBuildDate>Fri, 01 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://vlc.lightiot.co/tags/raptor-coding/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://vlc.project.citi-lab.fr/tags/raptor-coding/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CeilingCast: Energy efficient and location-bound broadcast through LED-camera communication</title>
-      <link>http://vlc.lightiot.co/publication/hao/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/hao/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/hao/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/hao/</guid>
       <description></description>
     </item>
     

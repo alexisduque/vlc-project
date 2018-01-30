@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coding on CITI Lab VLC Project</title>
-    <link>http://vlc.lightiot.co/tags/coding/</link>
+    <link>http://vlc.project.citi-lab.fr/tags/coding/</link>
     <description>Recent content in Coding on CITI Lab VLC Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 Alexis Duque</copyright>
     <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://vlc.lightiot.co/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://vlc.project.citi-lab.fr/tags/coding/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ReflexCode</title>
-      <link>http://vlc.lightiot.co/publication/yang2017c/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/yang2017c/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/yang2017c/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/yang2017c/</guid>
       <description></description>
     </item>
     

@@ -1,4 +1,4 @@
-baseURL = "http://vlc.lightiot.co/"
+baseURL = "http://vlc.project.citi-lab.fr/"
 languageCode = "en-us"
 title = "CITI Lab VLC Project"
 publishDir = "docs"

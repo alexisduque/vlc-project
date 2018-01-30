@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Openvlc on CITI Lab VLC Project</title>
-    <link>http://vlc.lightiot.co/tags/openvlc/</link>
+    <link>http://vlc.project.citi-lab.fr/tags/openvlc/</link>
     <description>Recent content in Openvlc on CITI Lab VLC Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 Alexis Duque</copyright>
     <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://vlc.lightiot.co/tags/openvlc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://vlc.project.citi-lab.fr/tags/openvlc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Demo: An Open-Access Research Testbed for Visible Light Communication</title>
-      <link>http://vlc.lightiot.co/publication/zamora2017/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/zamora2017/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/zamora2017/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/zamora2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo: OpenVLC1.2 for Increased Data Rate with Embedded Systems</title>
-      <link>http://vlc.lightiot.co/publication/galisteo2017/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/galisteo2017/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/galisteo2017/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/galisteo2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intra-Frame Bidirectional Transmission in Networks of Visible LEDs</title>
-      <link>http://vlc.lightiot.co/publication/wang2016/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/wang2016/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/wang2016/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/wang2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Open Source research Platform for Embedded Visible Light Networking</title>
-      <link>http://vlc.lightiot.co/publication/wang2015e/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/wang2015e/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/wang2015e/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/wang2015e/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OpenVLC: Software-Defined Visible Light Embedded Networks</title>
-      <link>http://vlc.lightiot.co/publication/wang2014/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/wang2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/wang2014/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/wang2014/</guid>
       <description></description>
     </item>
     

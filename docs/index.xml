@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CITI Lab VLC Project</title>
-    <link>http://vlc.lightiot.co/</link>
+    <link>http://vlc.project.citi-lab.fr/</link>
     <description>Recent content on CITI Lab VLC Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 Alexis Duque</copyright>
     <lastBuildDate>Fri, 01 Dec 2017 11:13:31 +0100</lastBuildDate>
     
-	<atom:link href="http://vlc.lightiot.co/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://vlc.project.citi-lab.fr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SmartLight won the Best Paper Award at Sensys&#39;17</title>
-      <link>http://vlc.lightiot.co/post/sensys-best-paper/</link>
+      <link>http://vlc.project.citi-lab.fr/post/sensys-best-paper/</link>
       <pubDate>Fri, 01 Dec 2017 11:13:31 +0100</pubDate>
       
-      <guid>http://vlc.lightiot.co/post/sensys-best-paper/</guid>
+      <guid>http://vlc.project.citi-lab.fr/post/sensys-best-paper/</guid>
       <description>The paper SmartLight: Light-weight 3D Indoor Localization Using a Single LED Lamp, Liu, Song and He, Tian received the Best Paper Awards of the ACM Sensys conference that took place in Delft, Netherlands from November 6th to 9th.
 The authors introduce SmartLight, a novel approach of VLC based 3D indoor localization using a only one ceiling LED. With a single modified LED lamp, the system is capable of localizing a large number of light sensors in a room.</description>
     </item>
     
     <item>
       <title>VLC Demo: Battery-free Visible Light Sensing</title>
-      <link>http://vlc.lightiot.co/post/vlcs-backscatter-demo/</link>
+      <link>http://vlc.project.citi-lab.fr/post/vlcs-backscatter-demo/</link>
       <pubDate>Mon, 23 Oct 2017 03:08:00 +0200</pubDate>
       
-      <guid>http://vlc.lightiot.co/post/vlcs-backscatter-demo/</guid>
+      <guid>http://vlc.project.citi-lab.fr/post/vlcs-backscatter-demo/</guid>
       <description>During the 4th VLCS workshop that took place on Monday, October 16th during the Mobicom week at Snowbird, Andreas Soleiman and Ambuj Varshney from Uppsala University (Sweden) introduced a new battery-free gesture sensing system.
 Their prototype relies on visible light sensing and backscatter technology to achieve accurate hand motion sensing and wireless communication using RFID without any battery. They take advantage off 2 solar cells, one for powering the small circuit and charging a 2uF capacitance, and the second, much smaller, as a light sensor.</description>
     </item>
     
     <item>
       <title>Open VLC 1.2 released!</title>
-      <link>http://vlc.lightiot.co/post/openvlc12/</link>
+      <link>http://vlc.project.citi-lab.fr/post/openvlc12/</link>
       <pubDate>Mon, 16 Oct 2017 16:26:10 +0200</pubDate>
       
-      <guid>http://vlc.lightiot.co/post/openvlc12/</guid>
+      <guid>http://vlc.project.citi-lab.fr/post/openvlc12/</guid>
       <description>This monday, during the VLCS&amp;rsquo;17 Workshop collocated with Mobicom at Snowbird, USA, Ander Galisteo, Domenico Giustiniano (IMDEA Networks Institute, Madrid), and Hongjia Wu, Qing Wang, Diego Juara and Marco Zuniga (Delft University of Technology), unveiled the new version of the open-source VLC prototyping plateform OpenVLC presenting a poster.
 They improve the plateform data-rate and performance thanks to new hardware (better photodetector, high-power LED circuit) and leveraging the Beaglebone Black Programmable Real-time Unit (PRU) to provide better timing and clock accuracy.</description>
     </item>
     
     <item>
       <title>Aili: VLC for body sensing</title>
-      <link>http://vlc.lightiot.co/post/aili/</link>
+      <link>http://vlc.project.citi-lab.fr/post/aili/</link>
       <pubDate>Thu, 12 Oct 2017 12:57:59 +0200</pubDate>
       
-      <guid>http://vlc.lightiot.co/post/aili/</guid>
+      <guid>http://vlc.project.citi-lab.fr/post/aili/</guid>
       <description>At Ubicomp&amp;rsquo;17, Tianxing Li form Dartmouth College introduce Aili, a table lamp able to reconstruct a 3D hand skeleton in real time, requiring neither cameras nor on-body sensing devices thanks to visible light.
 Aili consists of an LED panel in a lampshade and a few low-cost photodiodes embedded in the lamp base. Aili reconstructs the 3D motion by sensing the panel light-beam obstruction by the hand.
 This work shows original application of VLC in the field of sensing.</description>
@@ -55,109 +55,109 @@ This work shows original application of VLC in the field of sensing.</descriptio
     
     <item>
       <title>Automating Visual Privacy Protection Using a Smart LED</title>
-      <link>http://vlc.lightiot.co/publication/zhu2017b/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/zhu2017b/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/zhu2017b/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/zhu2017b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Battery-free Visible Light Sensing</title>
-      <link>http://vlc.lightiot.co/publication/varshney2017/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/varshney2017/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/varshney2017/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/varshney2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo: An Open-Access Research Testbed for Visible Light Communication</title>
-      <link>http://vlc.lightiot.co/publication/zamora2017/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/zamora2017/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/zamora2017/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/zamora2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo: Battery-free Visible Light Sensing</title>
-      <link>http://vlc.lightiot.co/publication/soleiman2017/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/soleiman2017/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/soleiman2017/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/soleiman2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo: OpenVLC1.2 for Increased Data Rate with Embedded Systems</title>
-      <link>http://vlc.lightiot.co/publication/galisteo2017/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/galisteo2017/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/galisteo2017/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/galisteo2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PassiveVLC</title>
-      <link>http://vlc.lightiot.co/publication/xu2017/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/xu2017/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/xu2017/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/xu2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ReflexCode</title>
-      <link>http://vlc.lightiot.co/publication/yang2017c/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/yang2017c/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/yang2017c/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/yang2017c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Roaming in Connecting Light</title>
-      <link>http://vlc.lightiot.co/publication/yang2017/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/yang2017/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/yang2017/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/yang2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SeedLight : Hardening LED-to-Camera Communication with Random Linear Coding</title>
-      <link>http://vlc.lightiot.co/publication/duque2017/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/duque2017/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/duque2017/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/duque2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VLCS&#39;17 Workshop Program is up</title>
-      <link>http://vlc.lightiot.co/post/vlcs-program/</link>
+      <link>http://vlc.project.citi-lab.fr/post/vlcs-program/</link>
       <pubDate>Wed, 20 Sep 2017 13:13:33 +0200</pubDate>
       
-      <guid>http://vlc.lightiot.co/post/vlcs-program/</guid>
+      <guid>http://vlc.project.citi-lab.fr/post/vlcs-program/</guid>
       <description>&lt;p&gt;The VLCS&amp;rsquo;17 program has been published on the workshop &lt;a href=&#34;http://vlcs17.winlab.rutgers.edu/program.html&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>VLC Project website is alive!</title>
-      <link>http://vlc.lightiot.co/post/website-up/</link>
+      <link>http://vlc.project.citi-lab.fr/post/website-up/</link>
       <pubDate>Wed, 20 Sep 2017 13:10:20 +0200</pubDate>
       
-      <guid>http://vlc.lightiot.co/post/website-up/</guid>
+      <guid>http://vlc.project.citi-lab.fr/post/website-up/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CamComSim</title>
-      <link>http://vlc.lightiot.co/camcomsim/</link>
+      <link>http://vlc.project.citi-lab.fr/camcomsim/</link>
       <pubDate>Wed, 20 Sep 2017 12:23:48 +0200</pubDate>
       
-      <guid>http://vlc.lightiot.co/camcomsim/</guid>
+      <guid>http://vlc.project.citi-lab.fr/camcomsim/</guid>
       <description>CamComSim is an open-source VLC LED-to-camera communication simulator.
 You can download the source code and contribute on  CamComSim Github Repository.
 You can also browse the CamComSim Javadoc .
@@ -166,200 +166,200 @@ CamComSim research report is available on the HAL library.</description>
     
     <item>
       <title>Conferences</title>
-      <link>http://vlc.lightiot.co/conferences/</link>
+      <link>http://vlc.project.citi-lab.fr/conferences/</link>
       <pubDate>Wed, 20 Sep 2017 12:22:17 +0200</pubDate>
       
-      <guid>http://vlc.lightiot.co/conferences/</guid>
+      <guid>http://vlc.project.citi-lab.fr/conferences/</guid>
       <description>You will find below a list of conferences and workshop you should watch if your interested in VLC.
  International Conference on Embedded Wireless Systems and Networks (EWSN) IEEE International Conference on Computer Communications (INFOCOM) ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN) IEEE International Conference on Communications (ICC) ACM Conference onMobile Systems, Applications, and Services (MobiSys) IEEE International Conference on Sensing, Communication and Networking (SECON) ACM Conference on Mobile Computing and Networking (MobiCom) ACM Workshop on Visible Light Communication Systems (VLCS) ACM Conference on Embedded Networked Sensor Systems (SenSys)   </description>
     </item>
     
     <item>
       <title>Research Groups</title>
-      <link>http://vlc.lightiot.co/groups/</link>
+      <link>http://vlc.project.citi-lab.fr/groups/</link>
       <pubDate>Wed, 20 Sep 2017 12:22:17 +0200</pubDate>
       
-      <guid>http://vlc.lightiot.co/groups/</guid>
+      <guid>http://vlc.project.citi-lab.fr/groups/</guid>
       <description>sdsdsd</description>
     </item>
     
     <item>
       <title>Reconstructing Hand Poses Using Visible Light</title>
-      <link>http://vlc.lightiot.co/publication/li2017/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/li2017/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/li2017/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/li2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pulsar : Towards Ubiquitous Visible Light Localization</title>
-      <link>http://vlc.lightiot.co/publication/pulsar/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/pulsar/</link>
       <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/pulsar/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/pulsar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intra-Frame Bidirectional Transmission in Networks of Visible LEDs</title>
-      <link>http://vlc.lightiot.co/publication/wang2016/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/wang2016/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/wang2016/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/wang2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CeilingCast: Energy efficient and location-bound broadcast through LED-camera communication</title>
-      <link>http://vlc.lightiot.co/publication/hao/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/hao/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/hao/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/hao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visible light communication using the flash light LED of the smart phone as a light source and its application in the access control system</title>
-      <link>http://vlc.lightiot.co/publication/fan2016/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/fan2016/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/fan2016/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/fan2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A reliable asynchronous protocol for VLC communications based on the rolling shutter effect</title>
-      <link>http://vlc.lightiot.co/publication/camps-mur2015/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/camps-mur2015/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/camps-mur2015/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/camps-mur2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis on Visible Light Communication using Rolling Shutter CMOS Sensor</title>
-      <link>http://vlc.lightiot.co/publication/do2015/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/do2015/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/do2015/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/do2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-speed asynchronous Optical Camera Communication using LED and rolling shutter camera</title>
-      <link>http://vlc.lightiot.co/publication/nguyen2015/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/nguyen2015/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/nguyen2015/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/nguyen2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Open Source research Platform for Embedded Visible Light Networking</title>
-      <link>http://vlc.lightiot.co/publication/wang2015e/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/wang2015e/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/wang2015e/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/wang2015e/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RollingLight</title>
-      <link>http://vlc.lightiot.co/publication/lee2015/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/lee2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/lee2015/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/lee2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Luxapose</title>
-      <link>http://vlc.lightiot.co/publication/kuo2014/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/kuo2014/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/kuo2014/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/kuo2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Employing smartphones Xenon flashlight for mobile payment</title>
-      <link>http://vlc.lightiot.co/publication/galal2014/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/galal2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/galal2014/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/galal2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OpenVLC: Software-Defined Visible Light Embedded Networks</title>
-      <link>http://vlc.lightiot.co/publication/wang2014/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/wang2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/wang2014/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/wang2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visual light landmarks for mobile devices</title>
-      <link>http://vlc.lightiot.co/publication/zhang2014/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/zhang2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/zhang2014/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/zhang2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Smartphones for Payments and Withdrawals Utilizing Embedded LED Flashlight for High Speed Data Transmission</title>
-      <link>http://vlc.lightiot.co/publication/galal2013a/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/galal2013a/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/galal2013a/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/galal2013a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An LED-to-LED Visible Light Communication system with software-based synchronization</title>
-      <link>http://vlc.lightiot.co/publication/schmid2012/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/schmid2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/schmid2012/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/schmid2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Low-complexity Visible Light Networking with LED-to-LED communication</title>
-      <link>http://vlc.lightiot.co/publication/giustiniano2012/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/giustiniano2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/giustiniano2012/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/giustiniano2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using a CMOS camera sensor for visible light communication</title>
-      <link>http://vlc.lightiot.co/publication/danakis2012/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/danakis2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/danakis2012/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/danakis2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FlashLight - Optical Communication Between Mobile Phones and Interactive Tabletops</title>
-      <link>http://vlc.lightiot.co/publication/hesselmann2010/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/hesselmann2010/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/hesselmann2010/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/hesselmann2010/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Very Low-Cost Sensing and Communication Using Bidirectional LEDs</title>
-      <link>http://vlc.lightiot.co/publication/dietz2003/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/dietz2003/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/dietz2003/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/dietz2003/</guid>
       <description></description>
     </item>
     

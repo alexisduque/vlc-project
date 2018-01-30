@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Led to Led on CITI Lab VLC Project</title>
-    <link>http://vlc.lightiot.co/tags/led-to-led/</link>
+    <link>http://vlc.project.citi-lab.fr/tags/led-to-led/</link>
     <description>Recent content in Led to Led on CITI Lab VLC Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 Alexis Duque</copyright>
     <lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://vlc.lightiot.co/tags/led-to-led/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://vlc.project.citi-lab.fr/tags/led-to-led/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Intra-Frame Bidirectional Transmission in Networks of Visible LEDs</title>
-      <link>http://vlc.lightiot.co/publication/wang2016/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/wang2016/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/wang2016/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/wang2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Open Source research Platform for Embedded Visible Light Networking</title>
-      <link>http://vlc.lightiot.co/publication/wang2015e/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/wang2015e/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/wang2015e/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/wang2015e/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OpenVLC: Software-Defined Visible Light Embedded Networks</title>
-      <link>http://vlc.lightiot.co/publication/wang2014/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/wang2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/wang2014/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/wang2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An LED-to-LED Visible Light Communication system with software-based synchronization</title>
-      <link>http://vlc.lightiot.co/publication/schmid2012/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/schmid2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/schmid2012/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/schmid2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Low-complexity Visible Light Networking with LED-to-LED communication</title>
-      <link>http://vlc.lightiot.co/publication/giustiniano2012/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/giustiniano2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/giustiniano2012/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/giustiniano2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Very Low-Cost Sensing and Communication Using Bidirectional LEDs</title>
-      <link>http://vlc.lightiot.co/publication/dietz2003/</link>
+      <link>http://vlc.project.citi-lab.fr/publication/dietz2003/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
       
-      <guid>http://vlc.lightiot.co/publication/dietz2003/</guid>
+      <guid>http://vlc.project.citi-lab.fr/publication/dietz2003/</guid>
       <description></description>
     </item>
     
