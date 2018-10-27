@@ -31,6 +31,15 @@
     </item>
     
     <item>
+      <title>Camera</title>
+      <link>http://vlc.project.citi-lab.fr/tags/camera/</link>
+      <pubDate>Thu, 01 Feb 2018 11:13:31 +0100</pubDate>
+      
+      <guid>http://vlc.project.citi-lab.fr/tags/camera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Code</title>
       <link>http://vlc.project.citi-lab.fr/tags/code/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
@@ -72,6 +81,15 @@
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
       <guid>http://vlc.project.citi-lab.fr/tags/disney/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ewsn</title>
+      <link>http://vlc.project.citi-lab.fr/tags/ewsn/</link>
+      <pubDate>Mon, 19 Feb 2018 11:13:31 +0100</pubDate>
+      
+      <guid>http://vlc.project.citi-lab.fr/tags/ewsn/</guid>
       <description></description>
     </item>
     
@@ -150,7 +168,7 @@
     <item>
       <title>News</title>
       <link>http://vlc.project.citi-lab.fr/tags/news/</link>
-      <pubDate>Fri, 01 Dec 2017 11:13:31 +0100</pubDate>
+      <pubDate>Mon, 19 Feb 2018 11:13:31 +0100</pubDate>
       
       <guid>http://vlc.project.citi-lab.fr/tags/news/</guid>
       <description></description>
@@ -171,6 +189,15 @@
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://vlc.project.citi-lab.fr/tags/openvlc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper</title>
+      <link>http://vlc.project.citi-lab.fr/tags/paper/</link>
+      <pubDate>Mon, 19 Feb 2018 11:13:31 +0100</pubDate>
+      
+      <guid>http://vlc.project.citi-lab.fr/tags/paper/</guid>
       <description></description>
     </item>
     
