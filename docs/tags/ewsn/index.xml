@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ewsn on CITI Lab VLC Project</title>
+    <link>http://vlc.project.citi-lab.fr/tags/ewsn/</link>
+    <description>Recent content in Ewsn on CITI Lab VLC Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017 Alexis Duque</copyright>
+    <lastBuildDate>Mon, 19 Feb 2018 11:13:31 +0100</lastBuildDate>
+    
+	<atom:link href="http://vlc.project.citi-lab.fr/tags/ewsn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>EWSN 2018 accepted poster</title>
+      <link>http://vlc.project.citi-lab.fr/post/ewsn-2018/</link>
+      <pubDate>Mon, 19 Feb 2018 11:13:31 +0100</pubDate>
+      
+      <guid>http://vlc.project.citi-lab.fr/post/ewsn-2018/</guid>
+      <description>From February 14th to 16th, Alexis Duque presented our work Insights into RGB-LED to Smartphone Communication during the posters session at EWSN that has been held in Madrid, Spain.
+The poster abstract will be included in the conference proceedings that will be published soon or can alternatively be accessed via the HAL library.</description>
+    </item>
+    
+  </channel>
+</rss>
