@@ -37,8 +37,8 @@ pubs_count = 3
   key = "UA-XXXXXXXX-X"
 
 [[params.position]]
-  course = "PhD Student (INSA de Lyon, Rtone)"
-  institution = "INSA de Lyon - Rtone"
+  course = "R&D and Security Leader (Rtone)"
+  institution = "Rtone"
   lab = "Team AGORA, CITI Lab"
   year = 2018
   
@@ -51,8 +51,8 @@ pubs_count = 3
 [[params.social]]
   icon = "envelope"
   icon_pack = "fa"
-  link = "mailto:alexis.duque@insa-lyon.fr"
-  text = "alexis.duque@insa-lyon.fr"
+  link = "mailto:alexis.duque@rtone.fr"
+  text = "alexis.duque@rtone.fr"
 
 [[params.social2]]
   icon = "envelope"
@@ -70,7 +70,7 @@ pubs_count = 3
 [[params.social2]]
   icon = "twitter"
   icon_pack = "fa"
-  link = "https://twitter.com/@BestRazvanEver"
+  link = "https://twitter.com/BestRazvanEver"
   text = "@BestRazvanEver"
   site = "Twitter"
 
@@ -84,7 +84,7 @@ pubs_count = 3
 [[params.social]]
   icon = "twitter"
   icon_pack = "fa"
-  link = "https://twitter.com/@alexis0duque"
+  link = "https://twitter.com/alexis0duque"
   text = "@alexis0duque"
   site = "Twitter"
 
