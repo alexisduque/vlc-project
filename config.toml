@@ -70,7 +70,7 @@ pubs_count = 3
 [[params.social2]]
   icon = "twitter"
   icon_pack = "fa"
-  link = "https://twitter.com/@BestRazvanEver"
+  link = "https://twitter.com/BestRazvanEver"
   text = "@BestRazvanEver"
   site = "Twitter"
 
@@ -84,7 +84,7 @@ pubs_count = 3
 [[params.social]]
   icon = "twitter"
   icon_pack = "fa"
-  link = "https://twitter.com/@alexis0duque"
+  link = "https://twitter.com/alexis0duque"
   text = "@alexis0duque"
   site = "Twitter"
 
