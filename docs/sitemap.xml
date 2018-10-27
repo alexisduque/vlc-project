@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://vlc.project.citi-lab.fr/post/ewsn-2018/</loc>
+    <lastmod>2018-02-19T11:13:31+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vlc.project.citi-lab.fr/post/lificongress-2018/</loc>
+    <lastmod>2018-02-01T11:13:31+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://vlc.project.citi-lab.fr/post/sensys-best-paper/</loc>
     <lastmod>2017-12-01T11:13:31+01:00</lastmod>
   </url>
@@ -212,7 +222,13 @@
   
   <url>
     <loc>http://vlc.project.citi-lab.fr/</loc>
-    <lastmod>2017-12-01T11:13:31+01:00</lastmod>
+    <lastmod>2018-02-19T11:13:31+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vlc.project.citi-lab.fr/tags/camera/</loc>
+    <lastmod>2018-02-01T11:13:31+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -255,6 +271,12 @@
   <url>
     <loc>http://vlc.project.citi-lab.fr/tags/disney/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vlc.project.citi-lab.fr/tags/ewsn/</loc>
+    <lastmod>2018-02-19T11:13:31+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -314,13 +336,13 @@
   
   <url>
     <loc>http://vlc.project.citi-lab.fr/tags/news/</loc>
-    <lastmod>2017-12-01T11:13:31+01:00</lastmod>
+    <lastmod>2018-02-19T11:13:31+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://vlc.project.citi-lab.fr/categories/news/</loc>
-    <lastmod>2017-12-01T11:13:31+01:00</lastmod>
+    <lastmod>2018-02-19T11:13:31+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -337,8 +359,14 @@
   </url>
   
   <url>
+    <loc>http://vlc.project.citi-lab.fr/tags/paper/</loc>
+    <lastmod>2018-02-19T11:13:31+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://vlc.project.citi-lab.fr/post/</loc>
-    <lastmod>2017-12-01T11:13:31+01:00</lastmod>
+    <lastmod>2018-02-19T11:13:31+01:00</lastmod>
     <priority>0</priority>
   </url>
   

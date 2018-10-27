@@ -37,8 +37,8 @@ pubs_count = 3
   key = "UA-XXXXXXXX-X"
 
 [[params.position]]
-  course = "PhD Student (INSA de Lyon, Rtone)"
-  institution = "INSA de Lyon - Rtone"
+  course = "R&D and Security Leader (Rtone)"
+  institution = "Rtone"
   lab = "Team AGORA, CITI Lab"
   year = 2018
   
@@ -51,8 +51,8 @@ pubs_count = 3
 [[params.social]]
   icon = "envelope"
   icon_pack = "fa"
-  link = "mailto:alexis.duque@insa-lyon.fr"
-  text = "alexis.duque@insa-lyon.fr"
+  link = "mailto:alexis.duque@rtone.fr"
+  text = "alexis.duque@rtone.fr"
 
 [[params.social2]]
   icon = "envelope"
